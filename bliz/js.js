@@ -9,7 +9,7 @@ $(document).ready(function() {
 		});		
 	}
 	hoverMenu("studium");
-	hoverMenu("forschung");
+	hoverMenu("projekte");
 	hoverMenu("fachbereich");
 	hoverMenu("international");
 	

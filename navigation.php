@@ -16,11 +16,11 @@
 		</li>	
 			
 		<!--FORSCHUNG-->
-		<li class="forschunga">
-			<a href="forschung.php">projekte</a>
-			<div class="forschungb submenu">
+		<li class="projektea">
+			<a href="projekte.php">projekte</a>
+			<div class="projekteb submenu">
 				<ul>
-					<li><a href="forschung.php">Projekte</a></li>
+					<li>Projekte</li>
 					<li><a href="">Checkliste Bauen für alle barrierefrei der Stadt Dinslaken</a></li>
 					<li><a href="">Barrierefrei aufbereitete Dokumente der Stadt Duisburg</a></li>
 					<li><a href="">Patientenaufklärungsbögen für Menschen mit Sehbeeinträchtigung zugänglich machen</a></li>

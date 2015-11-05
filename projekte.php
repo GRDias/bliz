@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/forschung/main.php";
+	include "sides/projekte/main.php";
 	
 	include "footer.php";
 ?>
