@@ -1,6 +1,11 @@
 <div id="content">
 	<div id="contentLeft">
 		<div id="haupttext">
+			
+			<div id="mininavi">
+				<a href="<?php echo strtolower($d1)?>.php"><?php echo $d1 ?></a>
+			</div>
+			
 			<div>
 				<h2>Projekte</h2>
 				<ul>

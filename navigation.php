@@ -5,7 +5,7 @@
 			<a href="studium.php?d1=Studium">studium</a>
 			<div class="studiumb submenu">
 				<ul>
-					<li><a href="studium.php?d1=studium">Studium</a></li>
+					<li><a href="studium.php?d1=Studium">Studium</a></li>
 					<li><a href="">Barrieren mit uns minimieren</a></li>
 					<li><a href="">Blick in das BliZ</a></li>
 					<li><a href="">FAQs</a></li>
@@ -17,10 +17,10 @@
 			
 		<!--FORSCHUNG-->
 		<li class="projektea">
-			<a href="projekte.php">projekte</a>
+			<a href="projekte.php?d1=Projekte">projekte</a>
 			<div class="projekteb submenu">
 				<ul>
-					<li>Projekte</li>
+					<li><a href="projekte.php?d1=Projekte">Projekte</a></li>
 					<li><a href="">Checkliste Bauen für alle barrierefrei der Stadt Dinslaken</a></li>
 					<li><a href="">Barrierefrei aufbereitete Dokumente der Stadt Duisburg</a></li>
 					<li><a href="">Patientenaufklärungsbögen für Menschen mit Sehbeeinträchtigung zugänglich machen</a></li>
@@ -37,10 +37,10 @@
 		
 		<!--FACHBEREICH-->
 		<li class="fachbereicha">
-			<a href="">fachbereich</a>
+			<a href="fachbereich.php?d1=Fachbereich">fachbereich</a>
 			<div class="fachbereichb submenu">
 				<ul>
-					<li><a href="">Profil</a></li>					
+					<li><a href="fachbereich.php?d1=Fachbereich">">Profil</a></li>					
 					<li><a href="ueberuns.php">Über uns</a></li>
 					<li><a href="">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
 					<li><a href="">Presse</a></li>
@@ -77,10 +77,10 @@
 		
 		<!-- INTERNATIONAL-->
 		<li class="internationala">
-			<a href="">international</a>
+			<a href="international.php?d1=International">international</a>
 			<div class="internationalb submenu">
 				<ul>
-					<li>international</li>
+					<li><a href="international.php?d1=International">international</a></li>
 					<li><a href="">Informazioni in italiano</a></li>
 					<li><a href="">Informaciones en español</a></li>
 				</ul>
