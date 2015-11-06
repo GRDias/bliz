@@ -25,9 +25,9 @@
 			</div>
 			
 			<div class="sozial">
-				<h3>Sozial</h3>
+				<h3>Sozial Media</h3>
 				<ul>
-					<li><a href=""><img src="bliz/facebook_on.png" alt="facebook" /></a></li>
+					<li><a href=""><img src="bliz/facebook-1.png" alt="facebook" /></a></li>
 					<!--<li><a href=""><img src="" alt="twitter" /></a></li>-->
 				</ul>
 			</div>
