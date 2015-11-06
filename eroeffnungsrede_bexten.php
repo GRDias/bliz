@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/fachbereich/ueberuns.php";
+	include "sides/fachbereich/eroeffnungsrede_bexten.php";
 	
 	include "footer.php";
 ?>

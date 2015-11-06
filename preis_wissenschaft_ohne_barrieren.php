@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/fachbereich/ueberuns.php";
+	include "sides/fachbereich/preis_wissenschaft_ohne_barrieren.php";
 	
 	include "footer.php";
 ?>

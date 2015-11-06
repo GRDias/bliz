@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/fachbereich/ueberuns.php";
+	include "sides/fachbereich/institutionen_partner.php";
 	
 	include "footer.php";
 ?>

@@ -42,11 +42,11 @@
 				<ul>
 					<li><a href="fachbereich.php?d1=Fachbereich&d2=">Profil</a></li>					
 					<li><a href="ueberuns.php?d1=Fachbereich&d2=Über uns">Über uns</a></li>
-					<li><a href="">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
-					<li><a href="">Presse</a></li>
-					<li><a href="">Institutionen mit denen das BliZ zusammen arbeitet</a></li>
-					<li><a href="">Eröffnungsrede von Frau Prof. Dr. Meyer zu Bexten</a></li>
-					<li><a href="">Spenden/Sponsoren</a></li>
+					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Fachbereich&d2=1. Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
+					<li><a href="presse.php?d1=Fachbereich&d2=Presse">Presse</a></li>
+					<li><a href="institutionen_partner.php?d1=Fachbereich&d2=Institutionen">Institutionen mit denen das BliZ zusammen arbeitet</a></li>
+					<li><a href="eroeffnungsrede_bexten.php?d1=Fachbereich&d2=Eröffnungsrede">Eröffnungsrede von Frau Prof. Dr. Meyer zu Bexten</a></li>
+					<li><a href="spenden_sponsoren.php?d1=Fachbereich&d2=Spenden/Sponsoren">Spenden/Sponsoren</a></li>
 				</ul>
 				<ul>
 					<li><a href="kontakt.php?d1=Fachbereich&d2=Kontakt">Kontakt</a></li>

@@ -2,6 +2,10 @@
 	
 	<div id="contentLeft">
 		<div id="haupttext">
+			<div id="mininavi">
+				<a href="<?php echo strtolower($d1); ?>.php" class="<?php echo strtolower($d1); ?>"><?php echo $d1; ?></a> > <?php echo $d2; ?>
+			</div>
+			<!-- Content -->
 			<div>
 				<h2>Wie erreiche ich das BliZ oder die THM mit öffentlichen Verkehrsmitteln?</h2>
 				<p>
@@ -39,7 +43,8 @@
 					</br>
 					Das BliZ befindet sich links, wenn Sie über die Treppen hoch gelaufen sind und rechts, wenn Sie den Fahrstuhl genommen haben. Nachdem Sie die Eingangstür passiert haben, fangen unsere Räume mit dem zweiten Büro links an.</br>
 				</p>
-			</div>				
+			</div>	
+			<!-- ContentEnde -->			
 		</div>		
 	</div>
 
