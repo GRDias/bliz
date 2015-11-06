@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/projekte/intranetportal.php";
+	include "sides/international/main.php";
 	
 	include "footer.php";
 ?>

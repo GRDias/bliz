@@ -3,7 +3,7 @@
 		<div id="haupttext">
 			
 			<div id="mininavi">
-				<a href="<?php echo strtolower($d1)?>.php"><?php echo $d1 ?></a>
+				<a href="<?php echo strtolower($d1); ?>.php" class="<?php echo strtolower($d1); ?>"><?php echo $d1; ?></a>
 			</div>
 			
 			<div>

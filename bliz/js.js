@@ -23,4 +23,15 @@ $(document).ready(function() {
 			$(".submenu").css({"position":"absolute","top":"51px"});
 		}
 	});
+	
+	//addAktive to Navi
+	function addActive(s){
+		if($("#mininavi a").hasClass(""+s)){
+			$("."+s+"a").addClass("active");
+		}	
+	}
+	addActive("studium");
+	addActive("projekte");
+	addActive("fachbereich");
+	addActive("international");
 });
