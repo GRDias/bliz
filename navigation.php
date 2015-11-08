@@ -5,12 +5,12 @@
 			<a href="studium.php?d1=Studium&d2=">studium</a>
 			<div class="studiumb submenu">
 				<ul>
-					<li><a href="studium.php?d1=Studium&d2=">Studium</a></li>
-					<li><a href="">Barrieren mit uns minimieren</a></li>
-					<li><a href="">Blick in das BliZ</a></li>
-					<li><a href="">FAQs</a></li>
-					<li><a href="">Auslandsbericht Ali-Riza C.</a></li>
-					<li><a href="">Informationen für Lehrkräfte</a></li>
+					<li><a href="studium.php?d1=Studium&d2=&d3=">Studium</a></li>
+					<li><a href="barrieren_minimieren.php?d1=Studium&d2=Barrieren minimieren&d3=">Barrieren mit uns minimieren</a></li>
+					<li><a href="blick_ins_bliz.php?d1=Studium&d2Blick in das Bliz=&d3=">Blick in das BliZ</a></li>
+					<li><a href="faqs.php?d1=Studium&d2=FAQs&d3=">FAQs</a></li>
+					<li><a href="auslandsbericht_riza.php?d1=Studium&d2=Auslandsbericht Ali-Riza&d3=">Auslandsbericht Ali-Riza C.</a></li>
+					<li><a href="info_lehrkraefte.php?d1=Studium&d2=Informationen für Lehrkräfte&d3=">Informationen für Lehrkräfte</a></li>
 				</ul>				
 			</div>		
 		</li>	
@@ -37,16 +37,16 @@
 		
 		<!--FACHBEREICH-->
 		<li class="fachbereicha">
-			<a href="fachbereich.php?d1=Fachbereich&d2=">fachbereich</a>
+			<a href="fachbereich.php?d1=Fachbereich&d2=&d3=">fachbereich</a>
 			<div class="fachbereichb submenu">
 				<ul>
-					<li><a href="fachbereich.php?d1=Fachbereich&d2=">Profil</a></li>					
-					<li><a href="ueberuns.php?d1=Fachbereich&d2=Über uns">Über uns</a></li>
-					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Fachbereich&d2=1. Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
-					<li><a href="presse.php?d1=Fachbereich&d2=Presse">Presse</a></li>
-					<li><a href="institutionen_partner.php?d1=Fachbereich&d2=Institutionen">Institutionen mit denen das BliZ zusammen arbeitet</a></li>
-					<li><a href="eroeffnungsrede_bexten.php?d1=Fachbereich&d2=Eröffnungsrede">Eröffnungsrede von Frau Prof. Dr. Meyer zu Bexten</a></li>
-					<li><a href="spenden_sponsoren.php?d1=Fachbereich&d2=Spenden/Sponsoren">Spenden/Sponsoren</a></li>
+					<li><a href="fachbereich.php?d1=Fachbereich&d2=Profil&d3=">Profil</a></li>					
+					<li><a href="ueberuns.php?d1=Fachbereich&d2=Profil&d3=Über uns">Über uns</a></li>
+					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Fachbereich&d2=Profil&d3=1. Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
+					<li><a href="presse.php?d1=Fachbereich&d2=Profil&d3=Presse">Presse</a></li>
+					<li><a href="institutionen_partner.php?d1=Fachbereich&d2=Profil&d3=Institutionen">Institutionen mit denen das BliZ zusammen arbeitet</a></li>
+					<li><a href="eroeffnungsrede_bexten.php?d1=Fachbereich&d2=Profil&d3=Eröffnungsrede">Eröffnungsrede von Frau Prof. Dr. Meyer zu Bexten</a></li>
+					<li><a href="spenden_sponsoren.php?d1=Fachbereich&d2=Profil&d3=Spenden/Sponsoren">Spenden/Sponsoren</a></li>
 				</ul>
 				<ul>
 					<li><a href="kontakt.php?d1=Fachbereich&d2=Kontakt">Kontakt</a></li>
