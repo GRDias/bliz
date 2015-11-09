@@ -21,7 +21,7 @@
 				Tel.: 06 41 / 309 – 24 22</br>
 				35390 Gießen</br>
 				</br></br>
-				<a href="">Anfahrt</a>
+				<a href="wegbeschreibung.php?d1=Fachbereich&d2=Kontakt&d3=So finden Sie uns">Anfahrt</a>
 			</div>
 			
 			<div class="sozial">
@@ -32,7 +32,7 @@
 				</ul>
 			</div>
 			
-			<div id="qrimage"><img src="bliz/qrcode.png" alt="qr code" /></div>
+			<div id="scroll_top"><img src="bliz/to_top.png" alt="scroll zum Anfang" /></div>
 		</div> 
 	</div>
 	<div id="wrapper-subfooter">

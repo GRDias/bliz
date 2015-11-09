@@ -241,6 +241,9 @@ ul{list-style-type: none;}
 #wrapper-footer a{
 	color:#FFFFFF;
 }
+#wrapper-footer a:hover{
+	text-decoration:underline;
+}
 #footer > div{
 	float:left;
 }
@@ -262,14 +265,16 @@ ul{list-style-type: none;}
 .sozial{
 	width:250px;
 }
-#qrimage{
+#scroll_top{
 	height:165px;		/*Anpassen*/
 	position: relative;
 }
-#qrimage img{
+#scroll_top img{
 	position: absolute;
 	bottom: 0;
-	height:100px;	
+	height:30px;
+	width:30px;
+	cursor: pointer;
 }
 
 /*		***	SubFooter ***	*//*		***	SubFooter ***	*//*		***	SubFooter ***	*/

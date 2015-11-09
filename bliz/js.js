@@ -34,4 +34,12 @@ $(document).ready(function() {
 	addActive("projekte");
 	addActive("fachbereich");
 	addActive("international");
+	
+	//ScrollTo Top
+	$("#scroll_top").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#header").offset().top
+    }, 1000);
+});
+
 });
