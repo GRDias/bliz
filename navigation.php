@@ -7,7 +7,7 @@
 				<ul>
 					<li><a href="studium.php?d1=Studium&d2=&d3=">Studium</a></li>
 					<li><a href="barrieren_minimieren.php?d1=Studium&d2=Barrieren minimieren&d3=">Barrieren mit uns minimieren</a></li>
-					<li><a href="blick_ins_bliz.php?d1=Studium&d2Blick in das Bliz=&d3=">Blick in das BliZ</a></li>
+					<li><a href="blick_ins_bliz.php?d1=Studium&d2=Blick in das Bliz=&d3=">Blick in das BliZ</a></li>
 					<li><a href="faqs.php?d1=Studium&d2=FAQs&d3=">FAQs</a></li>
 					<li><a href="auslandsbericht_riza.php?d1=Studium&d2=Auslandsbericht Ali-Riza&d3=">Auslandsbericht Ali-Riza C.</a></li>
 					<li><a href="info_lehrkraefte.php?d1=Studium&d2=Informationen für Lehrkräfte&d3=">Informationen für Lehrkräfte</a></li>
@@ -40,7 +40,7 @@
 			<a href="fachbereich.php?d1=Fachbereich&d2=&d3=">fachbereich</a>
 			<div class="fachbereichb submenu">
 				<ul>
-					<li><a href="fachbereich.php?d1=Fachbereich&d2=Profil&d3=">Profil</a></li>					
+					<li><a href="profil.php?d1=Fachbereich&d2=Profil&d3=">Profil</a></li>					
 					<li><a href="ueberuns.php?d1=Fachbereich&d2=Profil&d3=Über uns">Über uns</a></li>
 					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Fachbereich&d2=Profil&d3=1. Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
 					<li><a href="presse.php?d1=Fachbereich&d2=Profil&d3=Presse">Presse</a></li>
@@ -50,11 +50,11 @@
 				</ul>
 				<ul>
 					<li><a href="kontakt.php?d1=Fachbereich&d2=Kontakt">Kontakt</a></li>
-					<li><a href="">Technische Mitarbeiter</a></li>
+					<li><a href="technische_mitarbeiter.php?d1=Fachbereich&d2=Kontakt&d3=Technische Mitarbeiter">Technische Mitarbeiter</a></li>
 					<li><a href="">Projektmitarbeiter HeLB</a></li>
 					<li><a href="">Auszubildende</a></li>
 					<li><a href="">Personelle Unterstützung / Arbeitsplatzassistenten</a></li>
-					<li><a href="wegbeschreibung.php?d1=Fachbereich&d2=So finden Sie uns">So finden Sie uns</a></li>
+					<li><a href="wegbeschreibung.php?d1=Fachbereich&d2=Kontakt&d3=So finden Sie uns">So finden Sie uns</a></li>
 				</ul>				
 				<ul>
 					<li><a href="">Interessantes</a></li>

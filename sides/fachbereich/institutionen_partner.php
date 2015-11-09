@@ -2,4 +2,4 @@
 	<!-- Content -->
 	
 	<!-- ContentEnde -->
-<?php include "sides/fachbereich/sidebar.php"; ?>
+<?php include "sides/fachbereich/profilsidebar.php"; ?>
