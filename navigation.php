@@ -63,8 +63,8 @@
 					<li><a href="stiftung_pfennigparade.php?d1=Fachbereich&d2=Interessantes&d3=Stiftung Pfennigparade">Stiftung Pfennigparade</a></li>
 				</ul>
 				<ul>
-					<li><a href="">Archiv</a></li>					
-					<li><a href="">Newsarchiv</a></li>
+					<li><a href="archiv.php?d1=Fachbereich&d2=Archiv&d3=">Archiv</a></li>					
+					<li><a href="newsarchiv.php?d1=Fachbereich&d2=Archiv&d3=Newsarchiv">Newsarchiv</a></li>
 					<li><a href="">Polizeiakademie Hessen</a></li>
 					<li><a href="">10 Jahre BliZ</a></li>
 					<li><a href="">Arbeitskreis Disability Studies</a></li>
