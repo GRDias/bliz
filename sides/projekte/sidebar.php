@@ -1,6 +1,6 @@
 <div id="sidebar">
 		<ul class="sidebox whiteBox">
-			<li><h3>Projekte</h3></li>
+			<li><h3><a href="projekte.php?d1=Projekte&d2=">Projekte</a></h3></li>
 			<li><a href="checkliste_dinslaken.php?d1=Projekte&d2=Checkliste Dinslaken">Checkliste Bauen für alle barrierefrei der Stadt Dinslaken</a></li>
 			<li><a href="barrierefreie_dokumente_duisburg.php?d1=Projekte&d2=Barrierefreie Dokumente Duisburg">Barrierefrei aufbereitete Dokumente der Stadt Duisburg</a></li>
 			<li><a href="patientenaufklaerungsboegen.php?d1=Projekte&d2=Patientenaufklärungsbögen">Patientenaufklärungsbögen für Menschen mit Sehbeeinträchtigung zugänglich machen</a></li>

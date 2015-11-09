@@ -1,6 +1,6 @@
 *{padding:0;margin:0;border:0; font-family: "Arial"}
 body,html{background-color: #f2f4f5;}
-a{text-decoration: none;color:#3c4d5c;}
+#mininavi, a{text-decoration: none;color:#3c4d5c;}
 ul{list-style-type: none;}
 .blank{display:none;}
 
@@ -144,6 +144,9 @@ ul{list-style-type: none;}
 	background-color: #ffffff;
 	padding: 20px;
 	margin-right: 20px;
+}
+#mininavi{
+	margin-bottom: 15px;
 }
 .squareDots{
 	list-style-type: square;

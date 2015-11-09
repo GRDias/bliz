@@ -2,5 +2,5 @@
 	<!-- Content -->
 	
 	<!-- ContentEnde -->
-<?php include "sides/fachbereich/fachbereichsidebar.php"; ?>
+<?php include "sides/projekte/sidebar.php"; ?>
 
