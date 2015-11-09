@@ -49,18 +49,18 @@
 					<li><a href="spenden_sponsoren.php?d1=Fachbereich&d2=Profil&d3=Spenden/Sponsoren">Spenden/Sponsoren</a></li>
 				</ul>
 				<ul>
-					<li><a href="kontakt.php?d1=Fachbereich&d2=Kontakt">Kontakt</a></li>
+					<li><a href="kontakt.php?d1=Fachbereich&d2=Kontakt&d3=">Kontakt</a></li>
 					<li><a href="technische_mitarbeiter.php?d1=Fachbereich&d2=Kontakt&d3=Technische Mitarbeiter">Technische Mitarbeiter</a></li>
-					<li><a href="">Projektmitarbeiter HeLB</a></li>
-					<li><a href="">Auszubildende</a></li>
-					<li><a href="">Personelle Unterstützung / Arbeitsplatzassistenten</a></li>
+					<li><a href="projektmitarbeiter_helb.php?d1=Fachbereich&d2=Kontakt&d3=Projektmitarbeiter HeLB">Projektmitarbeiter HeLB</a></li>
+					<li><a href="auszubildende.php?d1=Fachbereich&d2=Kontakt&d3=Auszubildende">Auszubildende</a></li>
+					<li><a href="arbeitsplatzassistenten.php?d1=Fachbereich&d2=Kontakt&d3=Personelle Unterstützung / Arbeitsplatzassistenten">Personelle Unterstützung / Arbeitsplatzassistenten</a></li>
 					<li><a href="wegbeschreibung.php?d1=Fachbereich&d2=Kontakt&d3=So finden Sie uns">So finden Sie uns</a></li>
 				</ul>				
 				<ul>
-					<li><a href="">Interessantes</a></li>
-					<li><a href="">Barrierefreies Internet</a></li>
-					<li><a href="">Links zum Thema Behinderung und Internet</a></li>
-					<li><a href="">Stiftung Pfennigparade</a></li>
+					<li><a href="interessantes.php?d1=Fachbereich&d2=Interessantes&d3=">Interessantes</a></li>
+					<li><a href="barrierefreies_internet.php?d1=Fachbereich&d2=Interessantes&d3=Barrierefreies Internet">Barrierefreies Internet</a></li>
+					<li><a href="links_behinderung_internet.php?d1=Fachbereich&d2=Interessantes&d3=Links zum Thema Behinderung und Internet">Links zum Thema Behinderung und Internet</a></li>
+					<li><a href="stiftung_pfennigparade.php?d1=Fachbereich&d2=Interessantes&d3=Stiftung Pfennigparade">Stiftung Pfennigparade</a></li>
 				</ul>
 				<ul>
 					<li><a href="">Archiv</a></li>					
