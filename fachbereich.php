@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/fachbereich/fachbereich.php";
+	include "sides/fachbereich/main.php";
 	
 	include "footer.php";
 ?>
