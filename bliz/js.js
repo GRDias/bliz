@@ -6,7 +6,14 @@ $(document).ready(function() {
 			$(this).children().eq(1).fadeIn("fast");
 		},function(){
 			$(this).children().eq(1).fadeOut("fast");
-		});		
+		});
+		//MadeWithTabulator ;)
+		$("."+a+"a").focusin(function(){
+			$(this).children().eq(1).fadeIn(10);
+		});
+		$("."+a+"a").focusout(function(){
+			$(this).children().eq(1).fadeOut(10);
+		});
 	}
 	hoverMenu("studium");
 	hoverMenu("projekte");
