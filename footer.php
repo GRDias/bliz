@@ -1,5 +1,5 @@
 	<div id="wrapper-footer">	
-		<div id="footer">
+		<div id="footer" role="contentinfo">
 			<div class="kontakt">
 				<h3>Kontakt</h3>
 				<p>Technische Hochschule Mittelhessen</br>

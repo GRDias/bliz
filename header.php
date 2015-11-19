@@ -1,5 +1,5 @@
 <div id="wrapper-header">
-	<div id="header">
+	<div id="header" role="banner">
 		<ul id="skiplinks" class="blank">
 			<li><a href="#navigation">Skip to main navigation (Press Enter).</a></li>
 			<li><a href="#content">Skip to main content (Press Enter).</a></li>
