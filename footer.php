@@ -27,12 +27,12 @@
 			<div class="sozial">
 				<h3>Sozial Media</h3>
 				<ul>
-					<li><a href=""><img src="bliz/facebook-1.png" alt="facebook" /></a></li>
+					<li><a href=""><img src="bliz/img/facebook-1.png" alt="facebook" /></a></li>
 					<!--<li><a href=""><img src="" alt="twitter" /></a></li>-->
 				</ul>
 			</div>
 			
-			<div id="scroll_top"><img src="bliz/to_top.png" alt="scroll zum Anfang" /></div>
+			<div id="scroll_top"><img src="bliz/img/to_top.png" alt="scroll zum Anfang" /></div>
 		</div> 
 	</div>
 	<div id="wrapper-subfooter">

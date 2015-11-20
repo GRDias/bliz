@@ -1,0 +1,59 @@
+/*		***	Sidebar ***		*//*		***	Sidebar ***		*//*		***	Sidebar ***		*/
+.sidebox{
+	padding:30px;
+	font-size:110%;
+	margin-bottom:20px;
+}
+		/*RedBox*/
+.redBox{
+	background-color:#B54E62;	
+	color:#ffffff;
+}
+.redBox a{
+	color:#ffffff;
+}
+.redBox li{
+	border-bottom:1px solid #ffffff;
+	padding:10px 0;
+}
+.redBox li:first-child{
+	border-bottom:4px solid #ffffff;
+}
+		/*BlueBox*/
+.blueBox{
+	background-color:#405e9a;	
+	color:#ffffff;
+}
+.blueBox a{
+	color:#ffffff;
+}
+.blueBox li{
+	border-bottom:1px solid #ffffff;
+	padding:10px 0;
+}
+.blueBox li:first-child{
+	border-bottom:4px solid #ffffff;
+}
+		/*WhiteBox*/
+.whiteBox{
+	background-color:#ffffff;	
+	color:#394A59;
+}
+.whiteBox a{
+	color:#394A59;
+}
+.whiteBox li{
+	border-bottom:1px solid #394A59;
+	padding:10px 0;
+}
+.whiteBox li:first-child{
+	border-bottom:4px solid #394A59;
+}
+
+	/*FirstListEntry*/
+.sidebox li:first-child{
+	font-weight:bold;
+	text-transform: uppercase;
+	padding:0 0 10px 0;
+	margin-bottom:10px;
+}

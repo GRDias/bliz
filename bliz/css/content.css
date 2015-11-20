@@ -1,0 +1,54 @@
+/*		***	Content ***		*//*		***	Content ***		*//*		***	Content ***		*/
+#content{
+	display:table;
+	padding:20px 0;
+}
+#content > div:first-child{
+	width:66.666%;
+	float:left;
+}
+#content > div:last-child{
+	float:left;
+	width: 33.333%;
+}
+
+/*		***	MainTxt ***		*/
+#contentLeft h2{
+	padding-bottom:10px;
+}
+#haupttext{
+	background-color: #ffffff;
+	padding: 20px;
+	margin-right: 20px;
+}
+
+/*		***	MiniNavigation ***		*/
+#mininavi{
+	margin-bottom: 15px;
+}
+
+/*		***	Aktuelles ***		*/
+#aktuelles{
+	margin-top:20px;
+	margin-right:20px;
+	background-color: #f9d47f;
+	padding:20px;
+}
+#aktuelles h3{
+	padding:20px 0;
+}
+#mehraktuelles{
+	margin-left:70%;
+	padding:5px 10px;
+	border:2px solid #000000;
+	cursor: pointer;
+}
+#mehraktuelles:hover{
+	background-color: #ffffff;
+}
+
+/*		***	Sonstiges ***		*/
+.squareDots{
+	list-style-type: square;
+	margin-left: 40px;
+}

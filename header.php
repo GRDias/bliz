@@ -6,14 +6,14 @@
 		</ul>
 		
 		<div id="wrapper-header-fkt">
-			<img src="bliz/icon_earth.jpg" alt="" class="iconearth" />			
+			<img src="bliz/img/icon_earth.jpg" alt="" class="earth icon" />			
 			<div id="language" role="language">sprache</div>
-			<div id="search" role="search"><input class="searchinput" name="" /></div><div id="ioconsearch"></div>	
+			<div id="search"><input class="searchinput" name="" role="search" /></div><div id="ioconsearch"></div>	
 		</div>	
 		
 		<div id="logo">
-			<img src="bliz/THM_Logo.png" alt="thm logo" />
-			<img src="bliz/BliZ_Logo.png" alt="blitz logo" />
+			<img src="bliz/img/THM_Logo.png" alt="thm logo" />
+			<img src="bliz/img/BliZ_Logo.png" alt="blitz logo" />
 		</div>
 			
 	</div>
