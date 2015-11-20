@@ -1,4 +1,5 @@
 <div id="navigation" role="navigation">
+	<div id="iconLogo"><img src="bliz/img/thm-dots.png" alt='' /></div>
 	<ul id="mainnav">
 		<!--STUDIUM-->
 		<li class='studiuma'>

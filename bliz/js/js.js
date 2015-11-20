@@ -20,18 +20,20 @@ $(document).ready(function() {
 	hoverMenu("fachbereich");
 	hoverMenu("international");
 	
-	//makeMenuFixed
+	//make Menu Fixed show iconLogo
 	$(window).scroll(function(){
 		if($(this).scrollTop()>100){
 			$("#wrapper-nav").css({"position":"fixed"});
-			$("submenu").css({"position":"fixed","top":"51px"});
+			$(".submenu").css({"position":"fixed","top":"51px"});
+			$("#iconLogo").show();
 		}else{
 			$("#wrapper-nav").css({"position":"relative","top":"0"});
 			$(".submenu").css({"position":"absolute","top":"51px"});
+			$("#iconLogo").hide();
 		}
 	});
 	
-	//addAktive to Navi
+	//add "Aktive" to Navi (backgroundcolor=green)
 	function addActive(s){
 		if($("#mininavi a").hasClass(""+s)){
 			$("."+s+"a").addClass("active");
