@@ -29,6 +29,7 @@
 #mainnav > li:hover{
 	background-color: #DFE5E6
 }
+
 #mainnav .active{
 	background-color:#DFEEC8;
 }
@@ -64,4 +65,13 @@
 	font-size:80%;
 	width:250px;
 	margin-left:20px;
+}
+
+.submenu li:not(:first-child) a:hover{
+	text-decoration: underline;
+}
+.submenu li:not(:first-child) a:hover:before{
+	content:url('../img/navdot_gr.png');
+	position:absolute;
+	margin-left:-13px;
 }
