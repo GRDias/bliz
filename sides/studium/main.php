@@ -1,5 +1,5 @@
 <?php include "sides/mininavi_1.php"; ?>
-<!-- Content -->
+<!-- Content für Sidebar-->
 			
 	<div>
 		<h2>Studieren in Gießen - und das BliZ begleitet Sie dabei...</h2>
@@ -39,3 +39,7 @@
 
 <!-- ContentEnde -->
 <?php include "sides/studium/sidebar.php"; ?>
+
+<!-- Content ganze Breite-->
+	<div class="contentWidth">Test breite</div>
+<!-- Content ganze Breite Ende-->

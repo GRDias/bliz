@@ -17,3 +17,7 @@
 	
 <!-- ContentEnde -->
 <?php include "sides/projekte/sidebar.php"; ?>
+
+<!-- Content ganze Breite-->
+	<div class="contentWidth">Test breite</div>
+<!-- Content ganze Breite Ende-->

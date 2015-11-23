@@ -20,6 +20,7 @@ $(document).ready(function() {
 	hoverMenu("fachbereich");
 	hoverMenu("international");
 	
+	// Zeige skiplinks an
 	$("#skiplinks li").focusin(function(){
 		$(this).css({"top":"0px"});
 	});
