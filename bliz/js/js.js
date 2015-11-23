@@ -22,12 +22,9 @@ $(document).ready(function() {
 	
 	$("#skiplinks li").focusin(function(){
 		$(this).css({"top":"0px"});
-		alert("hallo");
-		//alert("this");
 	});
 	$("#skiplinks li").focusout(function(){
-		$(this).anminate({top:"-43px"});
-		//alert("this");
+		$(this).css({"top":"-43px"});
 	});
 
 	//make Menu Fixed show iconLogo
