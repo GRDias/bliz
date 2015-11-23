@@ -35,7 +35,7 @@
 }
 .submenu{
 	position: absolute;
-	width:1100px;
+	min-width:1100px;
 	left:50%;     
     margin-left:-550px;
     padding-bottom:10px;	

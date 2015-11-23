@@ -20,6 +20,16 @@ $(document).ready(function() {
 	hoverMenu("fachbereich");
 	hoverMenu("international");
 	
+	$("#skiplinks li").focusin(function(){
+		$(this).css({"top":"0px"});
+		alert("hallo");
+		//alert("this");
+	});
+	$("#skiplinks li").focusout(function(){
+		$(this).anminate({top:"-43px"});
+		//alert("this");
+	});
+
 	//make Menu Fixed show iconLogo
 	$(window).scroll(function(){
 		if($(this).scrollTop()>100){

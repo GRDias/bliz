@@ -1,6 +1,6 @@
-<div id="navigation" role="navigation">
+<div id="navigation">
 	<div id="iconLogo"><img src="bliz/img/thm-dots.png" alt='' /></div>
-	<ul id="mainnav">
+	<ul id="mainnav" role="navigation">
 		<!--STUDIUM-->
 		<li class='studiuma'>
 			<a href="studium.php?d1=Studium&d2=">studium</a>
