@@ -54,10 +54,10 @@ ul{list-style-type: none;}
 	float:left;
 	margin-top:7px;
 }
-#ioconsearch{
+#iconsearch{
 	width:20px;
 	height:20px;
-	background-image: url("search.png");
+	background-image: url("../img/search.png");
 	background-color:#dfe5e6;
 	padding: 5px 0;
 	background-repeat: no-repeat;

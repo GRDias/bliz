@@ -8,9 +8,9 @@
 		
 	<div id="header" role="banner">		
 		<div id="wrapper-header-fkt">
-			<img src="bliz/img/icon_earth.jpg" alt="" class="earth icon" />			
+			<img src="bliz/img/icon_earth.jpg" alt="" class="iconearth" />			
 			<div id="language" role="language">sprache</div>
-			<div id="search"><input class="searchinput" name="" role="search" /></div><div id="ioconsearch"></div>	
+			<div id="search"><input class="searchinput" name="" role="search" /></div><div id="iconsearch"></div>	
 		</div>	
 		
 		<div id="logo">
