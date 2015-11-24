@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE html>  
 <html lang="de-de">
 <head>
   <meta charset="utf-8" />
   <!--<base href="http://www.thm.de/blitz/" />-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title><?php $titel; ?></title>
+  <title><?php echo $titel; ?></title>
   
   <link rel="stylesheet" href="bliz/css/header.css" type="text/css" />
   <link rel="stylesheet" href="bliz/css/navigation.css" type="text/css" />
