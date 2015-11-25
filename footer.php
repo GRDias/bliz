@@ -2,26 +2,26 @@
 		<div id="footer" role="contentinfo">
 			<div class="kontakt">
 				<h3>Kontakt</h3>
-				<p>Technische Hochschule Mittelhessen</br>
-				University of Applied Sciences</br>
-				Fachbereich Gesundheit</br>
-				</br>
-				Wiesenstraße 14</br>
-				D - 35390 Gießen</br>
-				Telefon: +49 641 309 2433</br>
-				Telefax: +49 641 309 2933</br>
+				<p>Technische Hochschule Mittelhessen<br/>
+				University of Applied Sciences<br/>
+				Fachbereich Gesundheit<br/>
+				<br/>
+				Wiesenstraße 14<br/>
+				D - 35390 Gießen<br/>
+				Telefon: +49 641 309 2433<br/>
+				Telefax: +49 641 309 2933<br/>
 				E-Mail: <a href="mailto:bliz@thm.de">bliz@thm.de</a></p>
 			</div>
 			
 			<div class="besucheradresse">
 				<h3>Besucheradresse</h3>
-				<p>Gebäude C</br>
-				Raum: C 302-307</br>
-				</br>
-				Tel.: 06 41 / 309 – 24 22</br>
-				35390 Gießen</br>
-				</br></br>
-				<a href="wegbeschreibung.php?d1=Fachbereich&d2=Kontakt&d3=So finden Sie uns">Anfahrt</a>
+				<p>Gebäude C<br/>
+				Raum: C 302-307<br/>
+				<br/>
+				Tel.: 06 41 / 309 – 24 22<br/>
+				35390 Gießen<br/>
+				<br/><br/>
+				<a href="wegbeschreibung.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=So%20finden%20Sie%20uns">Anfahrt</a>
 			</div>
 			
 			<div class="sozial">
