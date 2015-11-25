@@ -3,7 +3,7 @@
 	<ul id="mainnav" role="navigation">
 		<!--STUDIUM-->
 		<li class='studiuma'>
-			<a href="/studium.php?d1=Studium&amp;d2=">studium</a>
+			<a href="studium.php?d1=Studium&amp;d2=">studium</a>
 			<div class="studiumb submenu">
 				<ul>
 					<li><a href="studium.php?d1=Studium&amp;d2=&amp;d3=">Studium</a></li>

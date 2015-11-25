@@ -2,6 +2,7 @@
 #content{
 	display:table;
 	padding:20px 0;
+	width:100%;
 }
 #content > div:first-child{
 	width:66.666%;
