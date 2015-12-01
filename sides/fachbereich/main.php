@@ -1,6 +1,6 @@
 <?php include "sides/mininavi_1.php"; ?>
 <!-- Content -->
-
+Willkommen!
 <!-- ContentEnde -->
 <?php include "sides/fachbereich/sidebar.php"; ?>
 
