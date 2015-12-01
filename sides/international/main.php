@@ -1,11 +1,5 @@
-<div id="content">
-	<div id="contentLeft">
-		<div id="haupttext">
-			
-			<div id="mininavi">
-				<a href="<?php echo strtolower($d1); ?>.php?d1=International&amp;d2=&amp;d3=" class="<?php echo strtolower($d1); ?>"><?php echo $d1; ?></a>
-			</div>
-			<!-- Content -->
+<?php include "sides/mininavi_1.php"; ?>
+<!-- Content --> 
 			<div>
 				<h2>English Information</h2><br></br>
 				<p>
@@ -18,9 +12,10 @@
 				<p>
 				Thanks to our sponsors we were able to raise some money and necessary equipment to get our center started from scratch. Because of the uniqueness and its success, there is a continuing interest of the public for the BliZ. There are regular visits not only of the press but also of tv teams of Germans's leading channels.
 				</p><br></br>
-			</div>					
-			<!-- ContentEnde -->
-		</div>
-	</div>	
-	<?php include "sidebar.php"; ?>	
-</div>
+			</div>					 
+<!-- ContentEnde -->
+<?php include "sides/international/sidebar.php"; ?>
+
+<!-- Content ganze Breite-->
+	<div class="contentWidth">Test breite</div>
+<!-- Content ganze Breite Ende-->
