@@ -11,13 +11,13 @@
 		</p>	
 	</div>
 	
-	<div>
-		<h2>Für Fragen stehen wir Ihnen gerne zur Verfügung</h2>
+	<div><br/><br/>
+		<h2>Für Fragen stehen wir Ihnen gerne zur Verfügung</h2><br/>
 		<p>
 			Nicht jeder ist zum Einzelkämpfer geboren. Natürlich kann man mit seiner Behinderung und chronischen Erkrankung versuchen ohne Hilfe zurecht zu kommen. Oftmals klappt das auch gut. Aber in den meisten Fällen führen kleine Hilfestellungen unsererseits zu großen Ergebnissen, die man selbst nicht erwartet hätte. Warum das Studium mit Barrieren unnötig verlängern, wenn man sie minimiert schneller und angenehmer bewältigen kann?<br/>
 			<br/>
 			!!! Deshalb zögern Sie nicht, uns zu kontaktieren !!!<br/>
-			<br/>				 
+			<br/><br/> 
 			<strong> Ansprechpartner zum Studium mit Behinderung und chronischen Erkrankungen im BliZ</strong><br/>
 		</p>
 	</div>
@@ -29,8 +29,8 @@
 		<br/>Prüfungsamt: Hier finden Sie Informationen rund um Prüfungen in Ihrem Studium an der THM.<br/>
 		<br/>
 		Alle Studiengänge an der Technischen Hochschule Mittelhessen (THM) finden Sie hier.<br/>
-		<br/>
-		<h3>Links zur Justus-Liebig-Universität Gießen</h3>
+		<br/><br/>
+		<h3>Links zur Justus-Liebig-Universität Gießen</h3><br/>
 
 		Alle Studiengänge an der Justus-Liebig-Universität finden Sie hier.<br/>
 		<br/>

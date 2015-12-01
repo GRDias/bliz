@@ -3,7 +3,7 @@
 	<ul id="mainnav" role="navigation">
 		<!--STUDIUM-->
 		<li class='studiuma'>
-			<a href="studium.php?d1=Studium&amp;d2=">studium</a>
+			<a accesskey="s" href="studium.php?d1=Studium&amp;d2=">studium</a>
 			<div class="studiumb submenu">
 				<ul>
 					<li><a href="studium.php?d1=Studium&amp;d2=&amp;d3=">Studium</a></li>
@@ -18,7 +18,7 @@
 			
 		<!--FORSCHUNG-->
 		<li class="projektea">
-			<a href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">projekte</a>
+			<a accesskey="p" href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">projekte</a>
 			<div class="projekteb submenu">
 				<ul>
 					<li><a href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">Projekte</a></li>
@@ -38,7 +38,7 @@
 		
 		<!--FACHBEREICH-->
 		<li class="fachbereicha">
-			<a href="fachbereich.php?d1=Fachbereich&amp;d2=&amp;d3=">fachbereich</a>
+			<a accesskey="f" href="fachbereich.php?d1=Fachbereich&amp;d2=&amp;d3=">fachbereich</a>
 			<div class="fachbereichb submenu">
 				<ul>
 					<li><a href="profil.php?d1=Fachbereich&amp;d2=Profil&amp;d3=">Profil</a></li>					
@@ -78,7 +78,7 @@
 		
 		<!-- INTERNATIONAL-->
 		<li class="internationala">
-			<a href="international.php?d1=International&amp;d2=&amp;d3=">international</a>
+			<a accesskey="i" href="international.php?d1=International&amp;d2=&amp;d3=">international</a>
 			<div class="internationalb submenu">
 				<ul>
 					<li><a href="international.php?d1=International&amp;d2=&amp;d3=">international</a></li>
