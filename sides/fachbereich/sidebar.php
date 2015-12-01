@@ -7,7 +7,6 @@
 		 	<li><a accesskey="2" href="kontakt.php?d1=Fachbereich&d2=Kontakt&d3=">Kontakt</a></li>
 		 	<li><a accesskey="3" href="interessantes.php?d1=Fachbereich&d2=Interessantes&d3=">Interessantes</a></li>
 		 	<li><a accesskey="4" href="archiv.php?d1=Fachbereich&d2=Archiv&d3=">Archiv</a></li>
-		 	<li><a href=""></a></li>
 		</ul>		
 		
 	</div>
