@@ -11,9 +11,11 @@
 			<img src="bliz/img/icon_earth.jpg" alt="" class="iconearth" />			
 			<div id="language" role="language">sprache</div>
 			<div id="search">
-				<input type="text" class="searchinput" name="search" role="search" />
-			</div>
-			<div id="iconsearch"></div>	
+				<form>
+					<input type="text" class="searchinput" name="search" role="search" />
+					<input type="submit" id="iconsearch" value="" role="suche starten" />
+				</form>
+			</div>			
 		</div>	
 		
 		<div id="logo">
