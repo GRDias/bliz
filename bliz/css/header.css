@@ -1,4 +1,4 @@
-*{padding:0;margin:0;border:0; font-family: "Arial"}
+*{padding:0;margin:0;border:0; font-family: "Arial";font-size:100%}
 body,html{background-color: #f2f4f5;width:100%;}
 #mininavi, a{text-decoration: none;color:#3c4d5c;}
 ul{list-style-type: none;}

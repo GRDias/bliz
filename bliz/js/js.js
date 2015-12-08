@@ -32,11 +32,11 @@ $(document).ready(function() {
 	$(window).scroll(function(){
 		if($(this).scrollTop()>100){
 			$("#wrapper-nav").css({"position":"fixed"});
-			$(".submenu").css({"position":"fixed","top":"51px"});
+			$(".submenu").css({"position":"fixed","top":"59px"});
 			$("#iconLogo").show();
 		}else{
 			$("#wrapper-nav").css({"position":"relative","top":"0"});
-			$(".submenu").css({"position":"absolute","top":"51px"});
+			$(".submenu").css({"position":"absolute","top":"59px"});
 			$("#iconLogo").hide();
 		}
 	});
