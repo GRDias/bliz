@@ -1,7 +1,7 @@
 <?php include "sides/mininavi_2.php"; ?>
 	<!-- Content -->
 	</br>
-<h2>Fragen und Antworten</h2>
+<h1>Fragen und Antworten</h1>
 </br>
 </br>
 <h2>1. Wie ist das BliZ entstanden?</h2>

@@ -1,10 +1,10 @@
 <?php include "sides/mininavi_2.php"; ?>
 	<!-- Content -->
 	<div>
-		<h2>Barrieren mit uns minimieren</h2>
+		<h1>Barrieren mit uns minimieren</h1>
 		<p>Die Technische Hochschule Mittelhessen bietet ein breites Angebot, um Studieninteressierten eine hochqualifizierte Ausbildung zu ermöglichen. Damit behinderte und chronisch kranke Studierende dieses Angebot wahrnehmen können, müssen einige Hindernisse überwunden werden. Unser Leitbild ist es, diese Barrieren gemeinsam mit unseren Studierenden zu minimieren und einen bestmöglichen Studienablauf zu ermöglichen.</p>
-		</br>
-		<h2>Studieneinstieg</h2>
+		</br></br>
+		<h1>Studieneinstieg</h1>
 		<p>Der Start in das Hochschulleben ist für ein erfolgreiches Studium von besonderer Bedeutung. (Daher zählt ein reibungsfreier Einstieg in das Studium zu unseren wichtigsten Aufgaben.) Für einen reibungsfreien Einstieg in das Studium bieten wir folgende Hilfestellungen:
 
 Informations- und Orientierungstage: In regelmäßigen Abständen erhalten zukünftige Studierende die Gelegenheit, sich über das Studium und unser Leistungsangebot zu informieren oder im Rahmen eines „Schnupperstudiums“ an Vorlesungen teilzunehmen.
@@ -15,8 +15,8 @@ Mobilitätstraining: Orientierungshilfe auf dem Gelände der THM kann von uns ge
 
 Zimmervermittlung: Auch bei der Suche nach einer Unterkunft können wir behilflich sein.
 </p>
-		</br>
-		<h2>Studium</h2>
+		</br></br>
+		<h1>Studium</h1>
 		<p>Unser Ziel ist der Nachteilsausgleich für behinderte und chronisch kranke Studierende in ihrer Hochschulausbildung. Darunter ist weniger der studieninhaltliche Aspekt als die Verringerung behinderungsspezifischer Barrieren zu verstehen. Dafür stellen wir die Räume, die Nutzung unseres Intranets und vielfältige Reha-Hilfsmittel (Bildschirmlesegeräte, Großbildschirme am Schwenkarm, Sprachausgabe und Vergrößerungssoftware), sowie unsere Dienstleistungen zur Verfügung. Eine umfangreiche Bibliothek in gedruckter und elektronischer Form ergänzt unser Angebot.
 
 Mentorenprogramm: Die Studierenden erhalten von unseren erfahrenen Mitarbeitern und Studierenden höheren Semesters praktische Tipps zum Studium.
@@ -33,8 +33,8 @@ Sozialraum: Ergänzend zu den Arbeitsräumen steht dieser Raum unseren Studieren
 
 Projekte und Forschung im Bereich Sehschädigung: Wir führen mit unserem Fachwissen in Kooperation mit Industriepartnern, Hochschulen und Uni-Kliniken Projekte durch, die sehgeschädigten Menschen das Leben zukünftig erleichtern.
 </p>
-		</br>
-		<h2>Projektsemester (Praktikum)</h2>
+		</br></br>
+		<h1>Projektsemester (Praktikum)</h1>
 		<p>Praxisorientiertes Lernen ist das Lehrkonzept der Technischen Hochschule Mittelhessen. Dafür ist ein Projektsemester im Hauptstudium vorgesehen, dass aus einem praktischem Teil und der Bachelor-Arbeit besteht. Hier können die Studierenden ihre bis dahin erworbenen theoretischen Kenntnisse in der Praxis einsetzen.
 
 Kontaktvermittlung: Praktika müssen von den Studierenden im Allgemeinen selbst organisiert werden. Auf Anfrage können wir natürlich auch behilflich sein.
@@ -45,8 +45,8 @@ Betreuung am Praktikumsplatz: Während des Praktikums stehen wir in engem Kontak
 
 Bachelor-Arbeit: Hier sind wir unseren Studierenden ggf. beim Layout der Arbeit behilflich.
 </p>
-		</br>
-		<h2>Leistungsnachweise</h2>
+		</br></br>
+		<h1>Leistungsnachweise</h1>
 		<p>Bedingt durch ihre Sehschwäche können unsere Studierenden die Leistungsnachweise (Klausuren etc.) ohne ihre Hilfsmittel nur mit erheblichen Schwierigkeiten erbringen.
 
 Ausgleich behinderungsbedingter Nachteile bei Leistungsnachweisen: Wir stellen z. B. Bildschirmlesegeräte, PCs mit Großbildschirmen, Sprachausgaben, Vergrößerungssoftware und Braillezeilen zur Verfügung. Damit können schon einige Nachteile ausgeglichen werden.
@@ -57,8 +57,8 @@ Hilfen beim Layout von wissenschaftlichen Ausarbeitungen: Das Layout ist ein wes
 
 Information und Beratung der Dozenten: Für offene Fragen und Anregungen stehen wir den Dozenten und anderen Interessenten nach Absprache gerne zur Verfügung.
 </p>
-</br>
-		<h2>Integration in das Arbeitsleben</h2>
+</br></br>
+		<h1>Integration in das Arbeitsleben</h1>
 		<p>Berührungsängste und unzutreffende Vorurteile der Arbeitgeberseite sowie die schwierige Lage auf dem Arbeitsmarkt erfordern es, dass sich chronisch kranke und behinderte Hochschulabsolventen noch besser auf den Berufseinstieg vorbereiten müssen. Wir setzen uns für unsere Studierenden auch nach ihrem Studienabschluss ein.
 
 Persönliche Beratung: Erfahrungen unserer Mitarbeiter und Absolventen über ihren eigenen Berufseinstieg können für unsere Abgänger hilfreich sein.

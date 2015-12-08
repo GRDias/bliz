@@ -14,8 +14,20 @@
 }
 
 /*		***	MainLeft ***		*/
-#contentLeft h2{
+#contentLeft h2, #contentLeft h1, #contentLeft h4, #contentLeft h3{
 	padding-bottom:10px;
+}
+#contentLeft h1{
+	font-size:120%;
+} 
+#contentLeft h2{
+	font-size:110%;
+}
+#contentLeft h3{
+	font-size:105%;
+}
+#contentLeft h4{
+	font-size:102%;
 }
 #haupttext{
 	background-color: #ffffff;
