@@ -72,3 +72,25 @@ hr{
 	list-style-type: square;
 	margin-left: 40px;
 }
+
+.img_giessen{
+	width:100%;
+	margin:10px 0;
+}
+
+.center{
+	display:block;
+	width:100%;
+	text-align:center;	
+}
+
+.footerBox{
+	width:66%;
+	margin-bottom:20px;
+}
+.footerBox p,.footerBox h2,.footerBox h3{	
+	padding:20px;	
+}
+.footerBox a{
+	text-decoration: underline; 
+}
