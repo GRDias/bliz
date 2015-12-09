@@ -20,6 +20,7 @@ $(document).ready(function() {
 	hoverMenu("fachbereich");
 	hoverMenu("international");
 	
+	
 	// Zeige skiplinks an
 	$("#skiplinks li").focusin(function(){
 		$(this).css({"top":"0px"});
@@ -27,6 +28,7 @@ $(document).ready(function() {
 	$("#skiplinks li").focusout(function(){
 		$(this).css({"top":"-43px"});
 	});
+
 
 	//make Menu Fixed show iconLogo
 	$(window).scroll(function(){
@@ -41,6 +43,7 @@ $(document).ready(function() {
 		}
 	});
 	
+	
 	//add "Aktive" to Navi (backgroundcolor=green)
 	function addActive(s){
 		if($("#mininavi a").hasClass(""+s)){
@@ -52,11 +55,20 @@ $(document).ready(function() {
 	addActive("fachbereich");
 	addActive("international");
 	
+	
 	//ScrollTo Top
 	$("#scroll_top").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#header").offset().top
-    }, 1000);
-});
+    	$('html, body').animate({
+	        scrollTop: $("#header").offset().top
+	    }, 1000);
+	});
 
+
+	//Markiert sidebar aktive Seite(Link)
+	/*
+	var currPage =$("#mininavi span").last().attr('class');
+	$(".sidebox li a ."+currPage).attr("id",currPage);
+	*/
+	
+	
 });

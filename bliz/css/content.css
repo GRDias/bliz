@@ -12,22 +12,25 @@
 	float:left;
 	width: 33.333%;
 }
-
+hr{
+	border:1px solid #CCCCCC;
+	margin-bottom:10px;
+}
 /*		***	MainLeft ***		*/
 #contentLeft h2, #contentLeft h1, #contentLeft h4, #contentLeft h3{
 	padding-bottom:10px;
 }
 #contentLeft h1{
-	font-size:120%;
+	font-size:130%;
 } 
 #contentLeft h2{
-	font-size:110%;
+	font-size:120%;
 }
 #contentLeft h3{
-	font-size:105%;
+	font-size:110%;
 }
 #contentLeft h4{
-	font-size:102%;
+	font-size:105%;
 }
 #haupttext{
 	background-color: #ffffff;

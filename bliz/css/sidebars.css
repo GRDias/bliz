@@ -50,10 +50,55 @@
 	border-bottom:4px solid #394A59;
 }
 
+		/*RedBox*/
+.redBox{
+	background-color:#B54E62;	
+	color:#ffffff;
+}
+.redBox a{
+	color:#ffffff;
+}
+.redBox li{
+	border-bottom:1px solid #ffffff;
+	padding:10px 0;
+}
+.redBox li:first-child{
+	border-bottom:4px solid #ffffff;
+}
+		/*GreenBox*/
+.greenBox{
+	background-color:#DFEEC8;	
+	color:#57686E;
+}
+.greenBox a{
+	color:#57686E;
+}
+.greenBox li{
+	border-bottom:1px solid #57686E;
+	padding:10px 0;
+}
+.greenBox li:first-child{
+	border-bottom:4px solid #57686E;
+}
+
 	/*FirstListEntry*/
 .sidebox li:first-child{
 	font-weight:bold;
 	text-transform: uppercase;
 	padding:0 0 10px 0;
 	margin-bottom:10px;
+}
+
+
+/*InfoBox, index*/
+.infokontakt td{
+	font-size:90%;
+}
+.infokontakt td:first-child{
+	padding-right:5px;
+}
+.infokontakt th{
+	font-size:100%;
+	text-align:left;
+	padding-bottom:10px;
 }

@@ -35,8 +35,11 @@ ul{list-style-type: none;}
 }
 #wrapper-header-fkt div{
 	float:left;
-	height:20px;
+	height:30px;
 	font-size:90%;
+}
+#wrapper-header-fkt input{
+	vertical-align: top;
 }
 #logo{
 	width:433px;
@@ -45,6 +48,7 @@ ul{list-style-type: none;}
 }
 #logo a:first-child img{
 	height:80px;
+	padding-right:10px;
 }
 #logo a:last-child img{
 	height: auto;
@@ -56,7 +60,7 @@ ul{list-style-type: none;}
 }
 #iconsearch{
 	width:20px;
-	height:30px;
+	height:28px;
 	background-image: url("../img/search.png");
 	background-color:#dfe5e6;
 	margin-left:-4px;
@@ -68,7 +72,7 @@ ul{list-style-type: none;}
 	cursor: pointer;
 }
 .searchinput{
-	padding: 7px 0px;
+	padding: 6px 0px;
 	font-size: 105%;
 	background-color: #dfe5e6;
 }

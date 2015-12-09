@@ -6,7 +6,7 @@
 <div id="wrapper-header">
 	
 		
-	<div id="header" role="banner">		
+	<div id="header" role="banner">
 		<div id="wrapper-header-fkt">
 			<img src="bliz/img/icon_earth.jpg" alt="" class="iconearth" />			
 			<div id="language" role="language">sprache</div>
@@ -19,7 +19,7 @@
 		</div>	
 		
 		<div id="logo">
-			<a href='' title="thm"><img src="bliz/img/THM_Logo.png" alt="thm logo" /></a>
+			<a href='www.thm.de' title="thm"><img src="bliz/img/THM_Logo.png" alt="thm logo" /></a>
 			<a href='index.php' title="bliz"><img src="bliz/img/BliZ_Logo.png" alt="blitz logo" /></a>
 		</div>
 			

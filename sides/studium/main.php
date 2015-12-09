@@ -10,7 +10,7 @@
 			Für Wünsche und Verbesserungsvorschläge von unseren Studenten haben wir immer ein offenes Ohr. Denn wir sind der Meinung, dass die Studenten selbst am besten wissen, was sie während ihres Studiums brauchen. Wir stellen den Studenten nur die allgemein benötigten Hilfsmittel wie Sprachausgabe, Braillezeile oder Bildschirmlesegeräte zur Verfügung. Über individuell benötigte Hilfsmittel machen wir uns mit den Studenten gemeinsam Gedanken und suchen zusammen nach einer Lösung.<br/>
 		</p>	
 	</div>
-	<br/>
+	<br/><br/>
 	<div>
 		<h2>Für Fragen stehen wir Ihnen gerne zur Verfügung</h2>
 		<p>
