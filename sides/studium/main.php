@@ -3,7 +3,7 @@
 			
 	<div>
 		<h1>Studieren in Gießen - und das BliZ begleitet Sie dabei...</h1>
-		<img src="bliz/img/bilder/giessen.jpg" alt="bild der Stadt Gießen" class="img_giessen" />
+		<img src="bliz/img/bilder/giessen.jpg" alt="bild der Stadt Gießen" class="img_content" />
 		<p>
 			Das Studium an einer Hochschule ist der erste große Schritt in die Selbständigkeit vieler behinderter und chronisch erkrankter (Sehschwäche, Legasthenie, Angstpatienten, Hörschwäche, Autismus, Psychische Erkrankungen...) Menschen, die zum größten Teil aus einer Schule kommen, an der vieles für sie geregelt wurde. Wo finde ich die Information, wo finden meine Vorlesungen statt oder wie schaffe ich es, dass ich meiner Behinderung gerechte Lernmaterialien bekomme? Diesen und vielen anderen Fragen haben wir uns angenommen und begleiten unsere Studierenden vom Studieneinstieg bis zum Studienabschluss und darüber hinaus ... . Was wir auch für sie tun können, entnehmen Sie bitte unserem BliZ-Flyer. Auch für behinderte und chronisch kranke Studierende der Justus-Liebig-Universität sind wir da und bemühen uns, ihnen soweit wie möglich zu helfen. Weiterhin können Sie sich über unser Projekt <a href="helb.php?d1=Projekte&d2=HeLB">Hessisches - elektronisches Lernportal für chronisch Kranke und Behinderte (H-eLB)</a> informieren<br/>
 			<br/>

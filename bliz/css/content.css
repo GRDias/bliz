@@ -32,10 +32,14 @@ hr{
 #contentLeft h4{
 	font-size:105%;
 }
+#contentLeft a:hover{
+	text-decoration: underline;
+}
 #haupttext{
 	background-color: #ffffff;
 	padding: 20px;
 	margin-right: 20px;
+	line-height: 1.5em;
 }
 /*		***	MainWidth ***		*/
 .contentWidth{
@@ -72,18 +76,49 @@ hr{
 	list-style-type: square;
 	margin-left: 40px;
 }
-
-.img_giessen{
-	width:100%;
-	margin:10px 0;
-}
-
 .center{
 	display:block;
 	width:100%;
 	text-align:center;	
 }
 
+.img_content{
+	width:100%;
+	margin:10px 0;
+}
+.posterBliz img{
+	margin:20px 0;
+}
+.posterBliz p{
+	
+	font-style: italic;
+	font-size:90%;
+}
+
+	/*KontaktSeite*/
+#kontaktTable td{
+	padding:5px 2px;
+}
+#kontaktTable th{
+	text-align:left;	
+}
+#kontaktTable tbody tr:first-child td{
+	vertical-align: top;
+}
+.kontaktProfil{
+	margin:20px 0;
+}
+.kontaktProfilInfo div{
+	display:inline-block;
+	vertical-align: top;
+}
+.kontaktProfilInfo p{
+	font-size: 90%;
+}
+#kontaktListe ul{
+	margin:10px;
+}
+	/*FooterBox*/
 .footerBox{
 	width:66%;
 	margin-bottom:20px;

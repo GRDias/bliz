@@ -38,40 +38,39 @@
 		
 		<!--FACHBEREICH-->
 		<li class="fachbereicha">
-			<a accesskey="f" href="fachbereich.php?d1=Fachbereich&amp;d2=&amp;d3=">fachbereich</a>
+			<a accesskey="f" href="fachbereich.php?d1=Bliz&amp;d2=&amp;d3=">Bliz</a>
 			<div class="fachbereichb submenu">
 				<ul>
-					<li><a href="profil.php?d1=Fachbereich&amp;d2=Profil&amp;d3=">Profil</a></li>					
-					<li><a href="ueberuns.php?d1=Fachbereich&amp;d2=Profil&amp;d3=Über%20uns">Über uns</a></li>
-					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Fachbereich&amp;d2=Profil&amp;d3=1.%20Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
-					<li><a href="presse.php?d1=Fachbereich&amp;d2=Profil&amp;d3=Presse">Presse</a></li>
-					<li><a href="institutionen_partner.php?d1=Fachbereich&amp;d2=Profil&amp;d3=Institutionen">Institutionen mit denen das BliZ zusammen arbeitet</a></li>
-					<li><a href="eroeffnungsrede_bexten.php?d1=Fachbereich&amp;d2=Profil&amp;d3=Eröffnungsrede">Eröffnungsrede von Frau Prof. Dr. Meyer zu Bexten</a></li>
-					<li><a href="spenden_sponsoren.php?d1=Fachbereich&amp;d2=Profil&amp;d3=Spenden/Sponsoren">Spenden/Sponsoren</a></li>
+					<li><a href="profil.php?d1=Bliz&amp;d2=Profil&amp;d3=">Profil</a></li>
+					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Bliz&amp;d2=Profil&amp;d3=1.%20Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
+					<li><a href="presse.php?d1=Bliz&amp;d2=Profil&amp;d3=Presse">Presse</a></li>
+					<li><a href="institutionen_partner.php?d1=Bliz&amp;d2=Profil&amp;d3=Institutionen">Institutionen mit denen das BliZ zusammen arbeitet</a></li>
+					<li><a href="eroeffnungsrede_bexten.php?d1=Bliz&amp;d2=Profil&amp;d3=Eröffnungsrede">Eröffnungsrede von Frau Prof. Dr. Meyer zu Bexten</a></li>
+					<li><a href="spenden_sponsoren.php?d1=Bliz&amp;d2=Profil&amp;d3=Spenden/Sponsoren">Spenden/Sponsoren</a></li>
 				</ul>
 				<ul>
-					<li><a href="kontakt.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=">Kontakt</a></li>
-					<li><a href="technische_mitarbeiter.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=Technische%20Mitarbeiter">Technische Mitarbeiter</a></li>
-					<li><a href="projektmitarbeiter_helb.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=Projektmitarbeiter%20HeLB">Projektmitarbeiter HeLB</a></li>
-					<li><a href="auszubildende.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=Auszubildende">Auszubildende</a></li>
-					<li><a href="arbeitsplatzassistenten.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=Personelle%20Unterstützung%20/%20Arbeitsplatzassistenten">Personelle Unterstützung / Arbeitsplatzassistenten</a></li>
-					<li><a href="wegbeschreibung.php?d1=Fachbereich&amp;d2=Kontakt&amp;d3=So%20finden%20Sie%20uns">So finden Sie uns</a></li>
+					<li><a href="kontakt.php?d1=Bliz&amp;d2=Kontakt&amp;d3=">Kontakt</a></li>
+					<li><a href="technische_mitarbeiter.php?d1=Bliz&amp;d2=Kontakt&amp;d3=Technische%20Mitarbeiter">Technische Mitarbeiter</a></li>
+					<li><a href="projektmitarbeiter_helb.php?d1=Bliz&amp;d2=Kontakt&amp;d3=Projektmitarbeiter%20HeLB">Projektmitarbeiter HeLB</a></li>
+					<li><a href="auszubildende.php?d1=Bliz&amp;d2=Kontakt&amp;d3=Auszubildende">Auszubildende</a></li>
+					<li><a href="arbeitsplatzassistenten.php?d1=Bliz&amp;d2=Kontakt&amp;d3=Personelle%20Unterstützung%20/%20Arbeitsplatzassistenten">Personelle Unterstützung / Arbeitsplatzassistenten</a></li>
+					<li><a href="wegbeschreibung.php?d1=Bliz&amp;d2=Kontakt&amp;d3=So%20finden%20Sie%20uns">So finden Sie uns</a></li>
 				</ul>				
 				<ul>
-					<li><a href="interessantes.php?d1=Fachbereich&amp;d2=Interessantes&amp;d3=">Interessantes</a></li>
-					<li><a href="barrierefreies_internet.php?d1=Fachbereich&amp;d2=Interessantes&amp;d3=Barrierefreies%20Internet">Barrierefreies Internet</a></li>
-					<li><a href="links_behinderung_internet.php?d1=Fachbereich&amp;d2=Interessantes&amp;d3=Links%20zum%20Thema%20Behinderung%20und%20Internet">Links zum Thema Behinderung und Internet</a></li>
-					<li><a href="stiftung_pfennigparade.php?d1=Fachbereich&amp;d2=Interessantes&amp;d3=Stiftung%20Pfennigparade">Stiftung Pfennigparade</a></li>
+					<li><a href="interessantes.php?d1=Bliz&amp;d2=Interessantes&amp;d3=">Interessantes</a></li>
+					<li><a href="barrierefreies_internet.php?d1=Bliz&amp;d2=Interessantes&amp;d3=Barrierefreies%20Internet">Barrierefreies Internet</a></li>
+					<li><a href="links_behinderung_internet.php?d1=Bliz&amp;d2=Interessantes&amp;d3=Links%20zum%20Thema%20Behinderung%20und%20Internet">Links zum Thema Behinderung und Internet</a></li>
+					<li><a href="stiftung_pfennigparade.php?d1=Bliz&amp;d2=Interessantes&amp;d3=Stiftung%20Pfennigparade">Stiftung Pfennigparade</a></li>
 				</ul>
 				<ul>
-					<li><a href="archiv.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=">Archiv</a></li>					
-					<li><a href="newsarchiv.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=Newsarchiv">Newsarchiv</a></li>
-					<li><a href="polizeiakademie_hessen.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=Polizeiakademie%20Hessen">Polizeiakademie Hessen</a></li>
-					<li><a href="10_jahre_bliz.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=10%20Jahre%20BliZ">10 Jahre BliZ</a></li>
-					<li><a href="arbeitskreis_disability.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=Arbeitskreis%20Disability%20Studies">Arbeitskreis Disability Studies</a></li>
-					<li><a href="wissenschaft_ohne_barrieren.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=Wissenschaft%20ohne%20Barrieren">Wissenschaft ohne Barrieren</a></li>
-					<li><a href="tag_offenen_tuer.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=Tag%20der%20offenen%20Tür">Tag der offenen Tür</a></li>
-					<li><a href="bericht_eines_jahrespraktikanten.php?d1=Fachbereich&amp;d2=Archiv&amp;d3=Bericht%20eines%20Jahrespraktikanten">Bericht eines Jahrespraktikanten</a></li>
+					<li><a href="archiv.php?d1=Bliz&amp;d2=Archiv&amp;d3=">Archiv</a></li>					
+					<li><a href="newsarchiv.php?d1=Bliz&amp;d2=Archiv&amp;d3=Newsarchiv">Newsarchiv</a></li>
+					<li><a href="polizeiakademie_hessen.php?d1=Bliz&amp;d2=Archiv&amp;d3=Polizeiakademie%20Hessen">Polizeiakademie Hessen</a></li>
+					<li><a href="10_jahre_bliz.php?d1=Bliz&amp;d2=Archiv&amp;d3=10%20Jahre%20BliZ">10 Jahre BliZ</a></li>
+					<li><a href="arbeitskreis_disability.php?d1=Bliz&amp;d2=Archiv&amp;d3=Arbeitskreis%20Disability%20Studies">Arbeitskreis Disability Studies</a></li>
+					<li><a href="wissenschaft_ohne_barrieren.php?d1=Bliz&amp;d2=Archiv&amp;d3=Wissenschaft%20ohne%20Barrieren">Wissenschaft ohne Barrieren</a></li>
+					<li><a href="tag_offenen_tuer.php?d1=Bliz&amp;d2=Archiv&amp;d3=Tag%20der%20offenen%20Tür">Tag der offenen Tür</a></li>
+					<li><a href="bericht_eines_jahrespraktikanten.php?d1=Bliz&amp;d2=Archiv&amp;d3=Bericht%20eines%20Jahrespraktikanten">Bericht eines Jahrespraktikanten</a></li>
 				</ul>
 			</div>
 		</li>
