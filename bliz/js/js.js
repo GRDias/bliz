@@ -64,6 +64,28 @@ $(document).ready(function() {
 	});
 
 
+	//Pfeiltastennutzung in Navigation(ErsterOrdnung) Links/Rechts 
+	$("#mainnav .firstlink").focus(function() {
+		$("#mainnav .firstlink").keyup(function(e) {
+	        if (e.keyCode == 37) 
+	        {  
+	            $(this).parent().prev().children(".firstlink").focus();
+	        }
+	        if(e.keyCode==39)
+	        {	            
+	            $(this).parent().next().children(".firstlink").focus();
+	        }
+	  	});      
+	});
+	
+	//Infobox
+	$("#infoimg").click(function() {
+		$("#infobox").show();	
+	});
+	$("#infoclose").click(function() {
+		$("#infobox").hide();	
+	});
+	
 	//Markiert sidebar aktive Seite(Link)
 	/*
 	var currPage =$("#mininavi span").last().attr('class');

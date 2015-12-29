@@ -12,9 +12,10 @@
 			<div id="search">
 				<form>
 					<input type="text" class="searchinput" name="search" role="search">					
-					<input type="submit" id="iconsearch"  role="start-search">
+					<input type="submit" id="iconsearch" value="" role="start-search">
 				</form>
-			</div>			
+			</div>	
+				
 		</div>	
 		
 		<div id="logo">

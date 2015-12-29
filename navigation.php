@@ -1,9 +1,9 @@
 <div id="navigation">
 	<div id="iconLogo"><img src="bliz/img/thm-dots.png" alt='' /></div>
-	<ul id="mainnav" role="navigation">
+	<ul id="mainnav" role="navigation" aria-controls="st1">
 		<!--STUDIUM-->
-		<li class='studiuma'>
-			<a accesskey="s" href="studium.php?d1=Studium&amp;d2=">studium</a>
+		<li class='studiuma' aria-haspopup="true">
+			<a accesskey="s" href="studium.php?d1=Studium&amp;d2=" class="firstlink">studium</a>
 			<div class="studiumb submenu">
 				<ul>
 					<li><a href="studium.php?d1=Studium&amp;d2=&amp;d3=">Studium</a></li>
@@ -17,8 +17,8 @@
 		</li>	
 			
 		<!--FORSCHUNG-->
-		<li class="projektea">
-			<a accesskey="p" href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">projekte</a>
+		<li class="projektea" aria-haspopup="true">
+			<a accesskey="p" href="projekte.php?d1=Projekte&amp;d2=&amp;d3=" class="firstlink">projekte</a>
 			<div class="projekteb submenu">
 				<ul>
 					<li><a href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">Projekte</a></li>
@@ -37,8 +37,8 @@
 		</li>
 		
 		<!--FACHBEREICH-->
-		<li class="fachbereicha">
-			<a accesskey="f" href="fachbereich.php?d1=Bliz&amp;d2=&amp;d3=">Bliz</a>
+		<li class="fachbereicha" aria-haspopup="true">
+			<a accesskey="f" href="fachbereich.php?d1=Bliz&amp;d2=&amp;d3=" class="firstlink">Bliz</a>
 			<div class="fachbereichb submenu">
 				<ul>
 					<li><a href="profil.php?d1=Bliz&amp;d2=Profil&amp;d3=">Profil</a></li>
@@ -76,8 +76,8 @@
 		</li>
 		
 		<!-- INTERNATIONAL-->
-		<li class="internationala">
-			<a accesskey="i" href="international.php?d1=International&amp;d2=&amp;d3=">international</a>
+		<li class="internationala" aria-haspopup="true">
+			<a accesskey="i" href="international.php?d1=International&amp;d2=&amp;d3=" class="firstlink">international</a>
 			<div class="internationalb submenu">
 				<ul>
 					<li><a href="international.php?d1=International&amp;d2=&amp;d3=">international</a></li>
