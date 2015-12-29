@@ -41,7 +41,7 @@
 				<thead>
 					<tr>
 						<th colspan="2">
-							<h3>Kontakt</h3>		
+							<p>Kontakt</p>		
 						</th>
 					</tr>
 				</thead>

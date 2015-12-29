@@ -33,6 +33,9 @@
 .sozial{
 	width:250px;
 }
+#qrcode{
+	width:99px;
+}
 #scroll_top{
 	height:165px;		/*Anpassen an footer höhe, piMalDaumen*/
 	position: relative;

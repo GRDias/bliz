@@ -30,6 +30,7 @@
 					<li><a href=""><img src="bliz/img/facebook-1.png" alt="facebook" /></a></li>
 					<!--<li><a href=""><img src="" alt="twitter" /></a></li>-->
 				</ul>
+				<img src="bliz/img/QR_Code_BliZ.jpg" alt="qr code" id="qrcode" />
 			</div>
 			
 			<div id="scroll_top"><img src="bliz/img/to_top.png" alt="scroll zum Anfang" /></div>

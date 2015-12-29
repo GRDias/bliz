@@ -11,8 +11,8 @@
 			<div id="language" role="language">sprache</div>
 			<div id="search">
 				<form>
-					<input type="text" class="searchinput" name="search" role="search" />
-					<input type="submit" id="iconsearch" value="" role="suche starten" />
+					<input type="text" class="searchinput" name="search" role="search">					
+					<input type="submit" id="iconsearch"  role="start-search">
 				</form>
 			</div>			
 		</div>	
