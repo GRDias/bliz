@@ -4,7 +4,6 @@
 	</ul>
 	
 <div id="wrapper-header">
-	
 		
 	<div id="header" role="banner">
 		<div id="wrapper-header-fkt">

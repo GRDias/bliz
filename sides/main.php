@@ -1,6 +1,6 @@
 <div id="content">	
 	
-	<div id="contentLeft">
+	<div id="contentLeft" role="main">
 		<div id="haupttext">
 			<h1>Herzlich willkommen auf den Seiten des BliZ</h1>
 			<hr />
