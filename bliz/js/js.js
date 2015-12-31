@@ -79,11 +79,11 @@ $(document).ready(function() {
 	});
 	
 	//Infobox
-	$("#infoimg").click(function() {
+	$("#info img").click(function() {
 		$("#infobox").show();	
 	});
 	$("#infoclose").click(function() {
-		$("#infobox").hide();	
+		$("#infobox").hide();
 	});
 	
 	//Markiert sidebar aktive Seite(Link)

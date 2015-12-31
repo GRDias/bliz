@@ -15,7 +15,9 @@
 					<input type="submit" id="iconsearch" value="" role="start-search">
 				</form>
 			</div>	
-				
+			<div id="info">
+				<img src="bliz/img/con_info.png" alt="Infografik. Click return for information about the navigation" />				
+			</div>		
 		</div>	
 		
 		<div id="logo">
@@ -25,7 +27,15 @@
 			
 	</div>
 </div>
-
+				
 <div id="wrapper-nav">
 	<?php include "navigation.php"; ?>
+</div>
+
+<div id="infobox" class="hidden">
+	<h1>Info</h1>
+	<p>
+		Navigation...
+	</p>
+	<span id="infoclose">schließen</span>
 </div>
