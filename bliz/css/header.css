@@ -3,7 +3,7 @@ body,html{background-color: #f2f4f5;width:100%;}
 #mininavi, a{text-decoration: none;color:#3c4d5c;}
 ul{list-style-type: none;}
 
-#header,#navigation,#footer,#subfooter,#content,.contentWidth{
+#header,#navigation,#footer,#subfooter,#content,.contentWidth,#mainfoot{
 	max-width:1100px;
 	margin:0 auto;
 }

@@ -1,3 +1,8 @@
+#welcometxt{
+	background-color:#FFFFFF;
+	padding:20px;
+}
+.break{float:none;}
 /*		***	Content ***		*//*		***	Content ***		*//*		***	Content ***		*/
 #content{
 	display:table;
@@ -129,3 +134,19 @@ hr{
 .footerBox a{
 	text-decoration: underline; 
 }
+
+
+	/*ManiFooter*/
+#mainfoot .row div{float:left;}
+#mainfoot .row .news{
+	background-color: #002878;
+	width:300px;
+}
+#mainfoot .row .links{
+	background-color: #F9D47F;
+	width:300px;
+}
+#mainfoot .row .sponsor{
+	background-color: #4A5D66;
+}
+
