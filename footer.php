@@ -25,10 +25,9 @@
 			</div>
 			
 			<div class="sozial">
-				<h3>Sozial Media</h3>
-				<ul>
-					<li><a href="https://www.facebook.com/THM.BliZ" titel="zur Facebookseite des Bliz"><img src="bliz/img/facebook-1.png" alt="facebook icon" /></a></li>
-				</ul>
+				<h3>Sozial Media</h3>								
+				<a href="https://www.facebook.com/THM.BliZ" titel="zur Facebookseite des Bliz"><img src="bliz/img/facebook-1.png" alt="facebook icon" /></a></li>
+				<br />
 				<img src="bliz/img/QR_Code_BliZ.jpg" alt="qr code" id="qrcode" />
 			</div>
 			
