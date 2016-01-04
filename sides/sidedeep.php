@@ -1,6 +1,6 @@
 <?php
 /*
- * Hohlt den aktuellen Ort(Seite) für die "miniNavigation"
+ * Hohlt den aktuellen Ort(Seite) für die "miniNavigation" im Contentbereich
  * */
  
 $d1=" ";

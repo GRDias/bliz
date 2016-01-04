@@ -16,7 +16,22 @@
 				</form>
 			</div>	
 			<div id="info">
-				<img src="bliz/img/con_info.png" alt="Infografik. Click return for information about the navigation" />				
+				<img src="bliz/img/con_info.png" alt="Infografik. Click return for information about the navigation" />
+				<div id="infobox" class="hidden">
+					<h1>Info</h1>
+					<br /><br />
+					<h2>Tip: 1</h2>
+					<p>
+						Um in der Navigation schneller voran zu kommen, kann man bei den 4 Hauptthemen der Navigation, mit den Pfeiltasten "Links" und "Rechts" umherschalten.
+					</p>
+					<br /><br />
+					<h2>Tip: 2</h2>
+					<p>
+						Nach dem Inhalt einer Seite befindet sich eine Sidebar. Diese beinhaltet nochmals eine Liste mit weiteren Seiten, die sich ebenso in dieser Kategorie befinden.  
+					</p>
+					<br /><br />
+					<span id="infoclose">schließen</span>
+				</div>				
 			</div>		
 		</div>	
 		
@@ -30,12 +45,4 @@
 				
 <div id="wrapper-nav">
 	<?php include "navigation.php"; ?>
-</div>
-
-<div id="infobox" class="hidden">
-	<h1>Info</h1>
-	<p>
-		Navigation...
-	</p>
-	<span id="infoclose">schließen</span>
 </div>

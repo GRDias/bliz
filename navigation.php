@@ -36,9 +36,9 @@
 			</div>			
 		</li>
 		
-		<!--FACHBEREICH-->
+		<!--"FACHBEREICH" Bliz-->
 		<li class="fachbereicha" aria-haspopup="true">
-			<a accesskey="f" href="fachbereich.php?d1=Bliz&amp;d2=&amp;d3=" class="firstlink">Bliz</a>
+			<a accesskey="f" href="bliz.php?d1=Bliz&amp;d2=&amp;d3=" class="firstlink">Bliz</a>
 			<div class="fachbereichb submenu">
 				<ul>
 					<li><a href="profil.php?d1=Bliz&amp;d2=Profil&amp;d3=">Profil</a></li>

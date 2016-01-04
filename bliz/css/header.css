@@ -83,18 +83,26 @@ ul{list-style-type: none;}
     margin-left: 5px;
 }
 #infobox{
-	position:relative;
+	position:absolute;
 	width:400px;
-	margin:20px auto;
+	height: auto !important;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	left:0;
+	right:0;
+	z-index:100;
 	background-color: #394A59;
 	color:#FFFFFF;
 	text-align:center;
 	padding:10px;
+	font-size: 100% !important;
 }
-#infobox p{
+#infobox p, #infobox h2{
 	text-align:left;
 }
 #infobox #infoclose{
 	background-color: #FF0000;
     padding: 5px;
+    cursor: pointer;
 }
