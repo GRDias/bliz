@@ -74,7 +74,8 @@ ul{list-style-type: none;}
 	cursor: pointer;
 }
 .searchinput{
-	padding: 6px 0px;
+	height:28px;
+	padding-left:3px;
 	font-size: 105%;
 	background-color: #dfe5e6;
 }

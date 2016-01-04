@@ -80,10 +80,12 @@ $(document).ready(function() {
 	
 	//Infobox
 	$("#info img").click(function() {
-		$("#infobox").show();	
+		$("#infobox").show();
+		$("#infobox h1").focus();
 	});
 	$("#infoclose").click(function() {
 		$("#infobox").hide();
+		$("#info img").focus();
 	});
 	
 	//Markiert sidebar aktive Seite(Link)

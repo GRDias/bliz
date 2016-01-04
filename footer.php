@@ -27,13 +27,12 @@
 			<div class="sozial">
 				<h3>Sozial Media</h3>
 				<ul>
-					<li><a href=""><img src="bliz/img/facebook-1.png" alt="facebook" /></a></li>
-					<!--<li><a href=""><img src="" alt="twitter" /></a></li>-->
+					<li><a href="https://www.facebook.com/THM.BliZ" titel="zur Facebookseite des Bliz"><img src="bliz/img/facebook-1.png" alt="facebook icon" /></a></li>
 				</ul>
 				<img src="bliz/img/QR_Code_BliZ.jpg" alt="qr code" id="qrcode" />
 			</div>
 			
-			<div id="scroll_top"><img src="bliz/img/to_top.png" alt="scroll zum Anfang" /></div>
+			<div id="scroll_top"><img src="bliz/img/to_top.png" alt="clicken um zum Anfang zu scrollen" /></div>
 		</div> 
 	</div>
 	<div id="wrapper-subfooter">
