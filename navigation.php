@@ -1,10 +1,10 @@
 <div id="navigation">
 	<div id="iconLogo"><img src="bliz/img/thm-dots.png" alt='' /></div>
-	<ul id="mainnav" role="navigation" aria-controls="st1">
+	<ul id="mainnav" role="navigation">
 		<!--STUDIUM-->
 		<li class='studiuma' aria-haspopup="true">
 			<a accesskey="s" href="studium.php?d1=Studium&amp;d2=" class="firstlink">studium</a>
-			<div class="studiumb submenu">
+			<div class="studiumb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="studium.php?d1=Studium&amp;d2=&amp;d3=">Studium</a></li>
 					<li><a href="barrieren_minimieren.php?d1=Studium&amp;d2=Barrieren%20minimieren&amp;d3=">Barrieren mit uns minimieren</a></li>
@@ -19,7 +19,7 @@
 		<!--FORSCHUNG-->
 		<li class="projektea" aria-haspopup="true">
 			<a accesskey="p" href="projekte.php?d1=Projekte&amp;d2=&amp;d3=" class="firstlink">projekte</a>
-			<div class="projekteb submenu">
+			<div class="projekteb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">Projekte</a></li>
 					<li><a href="checkliste_dinslaken.php?d1=Projekte&amp;d2=Checkliste%20Dinslaken&amp;d3=">Checkliste Bauen für alle barrierefrei der Stadt Dinslaken</a></li>
@@ -39,7 +39,7 @@
 		<!--"FACHBEREICH" Bliz-->
 		<li class="fachbereicha" aria-haspopup="true">
 			<a accesskey="f" href="bliz.php?d1=Bliz&amp;d2=&amp;d3=" class="firstlink">Bliz</a>
-			<div class="fachbereichb submenu">
+			<div class="fachbereichb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="profil.php?d1=Bliz&amp;d2=Profil&amp;d3=">Profil</a></li>
 					<li><a href="preis_wissenschaft_ohne_barrieren.php?d1=Bliz&amp;d2=Profil&amp;d3=1.%20Preis">Unser 1. Preis: Wissenschaft ohne Barrieren</a></li>
@@ -78,7 +78,7 @@
 		<!-- INTERNATIONAL-->
 		<li class="internationala" aria-haspopup="true">
 			<a accesskey="i" href="international.php?d1=International&amp;d2=&amp;d3=" class="firstlink">international</a>
-			<div class="internationalb submenu">
+			<div class="internationalb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="international.php?d1=International&amp;d2=&amp;d3=">international</a></li>
 					<li><a href="">Informazioni in italiano</a></li>
