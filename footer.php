@@ -33,8 +33,8 @@
 			</div>
 			
 			<div id="scroll_top">
-				<button titel="Klicken um zum Anfang zu scrollen">
-					<img src="bliz/img/to_top.png" />	
+				<button type="submit">
+					<img src="bliz/img/to_top.png" alt="Klicken um zum Anfang zu scrollen" />	
 				</button>				
 			</div>
 		</div> 

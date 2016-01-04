@@ -1,5 +1,5 @@
 <!DOCTYPE html>  
-<html lang="de-de">
+<html lang="de">
 <head>
   <meta charset="utf-8" />
   <!--<base href="http://www.thm.de/blitz/" />-->

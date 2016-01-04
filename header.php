@@ -8,16 +8,16 @@
 	<div id="header" role="banner">
 		<div id="wrapper-header-fkt">
 			<img src="bliz/img/icon_earth.jpg" alt="" class="iconearth" />			
-			<div id="language" role="language">sprache</div>
-			<div id="search">
+			<div id="language" role="Sprache">sprache</div>
+			<div id="search" role="Suche">
 				<form>
-					<input type="text" class="searchinput" name="search" role="search">					
-					<input type="submit" id="iconsearch" value="" role="start-search">
+					<input type="text" class="searchinput" name="search">					
+					<input type="submit" id="iconsearch" value="">
 				</form>
 			</div>	
-			<div id="info">
-				<button role="information" title="Öffne die Information">
-					<img src="bliz/img/con_info.png" alt="Infoicon" />
+			<div id="info" role="information">
+				<button type="submit">
+					<img src="bliz/img/con_info.png" alt="Information Icon. Öffne die Information" />
 				</button>
 				<div id="infobox" class="hidden">
 					<h1 tabindex="-1">Info</h1>

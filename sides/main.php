@@ -26,7 +26,7 @@
 		</div>
 		<div class="links">
 			<ul>
-				<li><a href="profil.php?d1=Fachbereich&d2=Profil&d3="><h3>Nützliche Links</h3></a></li>
+				<li><a href="profil.php?d1=Bliz&amp;d2=Profil&amp;d3="><h3>Nützliche Links</h3></a></li>
 			 	<li><a href="">Kontakt</a></li>
 			 	<li><a href="">So finden Sie uns</a></li>
 			 	<li><a href="">Studium</a></li>
