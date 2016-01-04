@@ -73,6 +73,10 @@ ul{list-style-type: none;}
 	padding: 7px 20px 5px 2px;
 	cursor: pointer;
 }
+#language input{
+	background-color:#ffffff;
+	height:18px;
+}
 .searchinput{
 	height:28px;
 	padding-left:3px;

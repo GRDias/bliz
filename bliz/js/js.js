@@ -7,13 +7,13 @@ $(document).ready(function() {
 	 * 
 	 * */
 	function hoverMenu(a){
-		//mainmenu
+		//With Mouse
 		$("."+a+"a").hover(function(){
 			$(this).children().eq(1).fadeIn("fast");
 		},function(){
 			$(this).children().eq(1).fadeOut("fast");
 		});
-		//MadeWithTabulator ;)
+		//With Tabulator
 		$("."+a+"a").focusin(function(){
 			$(this).children().eq(1).fadeIn(10);
 		});

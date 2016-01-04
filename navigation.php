@@ -2,8 +2,8 @@
 	<div id="iconLogo"><img src="bliz/img/thm-dots.png" alt='' /></div>
 	<ul id="mainnav" role="navigation">
 		<!--STUDIUM-->
-		<li class='studiuma' aria-haspopup="true">
-			<a accesskey="s" href="studium.php?d1=Studium&amp;d2=" class="firstlink">studium</a>
+		<li class='studiuma'>
+			<a accesskey="s" href="studium.php?d1=Studium&amp;d2=" class="firstlink" aria-haspopup="true">studium</a>
 			<div class="studiumb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="studium.php?d1=Studium&amp;d2=&amp;d3=">Studium</a></li>
@@ -17,8 +17,8 @@
 		</li>	
 			
 		<!--FORSCHUNG-->
-		<li class="projektea" aria-haspopup="true">
-			<a accesskey="p" href="projekte.php?d1=Projekte&amp;d2=&amp;d3=" class="firstlink">projekte</a>
+		<li class="projektea">
+			<a accesskey="p" href="projekte.php?d1=Projekte&amp;d2=&amp;d3=" class="firstlink" aria-haspopup="true">projekte</a>
 			<div class="projekteb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="projekte.php?d1=Projekte&amp;d2=&amp;d3=">Projekte</a></li>
@@ -37,8 +37,8 @@
 		</li>
 		
 		<!--"FACHBEREICH" Bliz-->
-		<li class="fachbereicha" aria-haspopup="true">
-			<a accesskey="f" href="bliz.php?d1=Bliz&amp;d2=&amp;d3=" class="firstlink">Bliz</a>
+		<li class="fachbereicha">
+			<a accesskey="f" href="bliz.php?d1=Bliz&amp;d2=&amp;d3=" class="firstlink" aria-haspopup="true">Bliz</a>
 			<div class="fachbereichb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="profil.php?d1=Bliz&amp;d2=Profil&amp;d3=">Profil</a></li>
@@ -76,8 +76,8 @@
 		</li>
 		
 		<!-- INTERNATIONAL-->
-		<li class="internationala" aria-haspopup="true">
-			<a accesskey="i" href="international.php?d1=International&amp;d2=&amp;d3=" class="firstlink">international</a>
+		<li class="internationala">
+			<a accesskey="i" href="international.php?d1=International&amp;d2=&amp;d3=" class="firstlink" aria-haspopup="true">international</a>
 			<div class="internationalb submenu" aria-hidden="true">
 				<ul>
 					<li><a href="international.php?d1=International&amp;d2=&amp;d3=">international</a></li>

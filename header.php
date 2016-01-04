@@ -8,7 +8,11 @@
 	<div id="header" role="banner">
 		<div id="wrapper-header-fkt">
 			<img src="bliz/img/icon_earth.jpg" alt="" class="iconearth" />			
-			<div id="language" role="language">sprache</div>
+			<div id="language" role="language">
+				<form>					
+					<input type="submit" value="Sprache">
+				</form>
+			</div>
 			<div id="search" role="search">
 				<form>
 					<input type="text" class="searchinput" name="search">					

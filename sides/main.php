@@ -1,4 +1,4 @@
-<div role="main" id="welcometxt">
+<div role="main" id="welcometxt" id="content">
 	<h1>Herzlich willkommen auf den Seiten des BliZ</h1>
 	<hr />
 	<p>Das BliZ bietet für chronisch kranke und behinderte Studierende eine optimale Unterstützung. Unser Ziel ist die Verringerung von Barrieren im Studium. Durch individuelle Nachteilsausgleichsmaßnamen wollen wir den Studierenden ein reibungsloses Studium ermöglichen, so dass eine behinderungsbedingte Verlängerung oder gar ein Abbruch des Studiums vermieden werden kann.</p>
