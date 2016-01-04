@@ -40,12 +40,16 @@
 	height:165px;		/*Anpassen an footer höhe, piMalDaumen*/
 	position: relative;
 }
-#scroll_top img{
+#scroll_top button{
 	position: absolute;
+	border:0;
 	bottom: 0;
 	height:30px;
 	width:30px;
 	cursor: pointer;
+}
+#scroll_top img{
+    margin-top: -1px;
 }
 
 /*		***	SubFooter ***	*//*		***	SubFooter ***	*//*		***	SubFooter ***	*/

@@ -1,4 +1,4 @@
-<ul id="skiplinks">
+<ul id="skiplinks" role="skiplinks" tabindex="-1">
 			<li><a href="#navigation">Skip to main navigation (Press Enter).</a></li>
 			<li><a href="#content">Skip to main content (Press Enter).</a></li>
 	</ul>
@@ -16,7 +16,7 @@
 				</form>
 			</div>	
 			<div id="info">
-				<button role="information" title="Click return for information about the navigation">
+				<button role="information" title="Öffne die Information">
 					<img src="bliz/img/con_info.png" alt="Infoicon" />
 				</button>
 				<div id="infobox" class="hidden">
@@ -32,7 +32,7 @@
 						Nach dem Inhalt einer Seite befindet sich eine Sidebar. Diese beinhaltet nochmals eine Liste mit weiteren Seiten, die sich ebenso in dieser Kategorie befinden.  
 					</p>
 					<br /><br />
-					<button id="infoclose">schließen</button>
+					<button id="infoclose" titel="schließe die Information">schließen</button>
 				</div>				
 			</div>		
 		</div>	

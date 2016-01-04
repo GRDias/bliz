@@ -32,7 +32,11 @@
 				<img src="bliz/img/QR_Code_BliZ.jpg" alt="qr code" id="qrcode" />
 			</div>
 			
-			<div id="scroll_top"><img src="bliz/img/to_top.png" alt="clicken um zum Anfang zu scrollen" /></div>
+			<div id="scroll_top">
+				<button titel="Klicken um zum Anfang zu scrollen">
+					<img src="bliz/img/to_top.png" />	
+				</button>				
+			</div>
 		</div> 
 	</div>
 	<div id="wrapper-subfooter">

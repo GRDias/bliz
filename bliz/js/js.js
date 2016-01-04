@@ -1,5 +1,11 @@
 $(document).ready(function() {
-	//hoverMainMenü
+	
+	/*
+	 *  Hover Main Menü:
+	 * 
+	 *	Öffnen des Unter-Menüs beim Überfahren mit der Maus oder mit dem Fokuspunkt von der Tabtaste
+	 * 
+	 * */
 	function hoverMenu(a){
 		//mainmenu
 		$("."+a+"a").hover(function(){
@@ -21,7 +27,9 @@ $(document).ready(function() {
 	hoverMenu("international");
 	
 	
-	// Zeige skiplinks an
+	/*
+	 *	Zeige skiplinks an, wenn mit der Tabtaste der Fokus gesetzt ist.
+	 * */ 
 	$("#skiplinks li").focusin(function(){
 		$(this).css({"top":"0px"});
 	});
@@ -30,7 +38,13 @@ $(document).ready(function() {
 	});
 
 
-	//make Menu Fixed show iconLogo
+	/*
+	 *	Setzt das Menü und das Logo an den Fensteranfang wenn man zu weit 
+	 * 	nach unten scrollt und somit den Header(Navigation) optisch verlässt.
+	 * 
+	 * 	Bug, wenn man nicht scrollt sondern nur mit der Tastatur steuert, da
+	 *  der Befehl auf das Scrollverhalten des Users reagiert.
+	 * */
 	$(window).scroll(function(){
 		if($(this).scrollTop()>100){
 			$("#wrapper-nav").css({"position":"fixed"});
@@ -44,7 +58,10 @@ $(document).ready(function() {
 	});
 	
 	
-	//add "Aktive" to Navi (backgroundcolor=green)
+	/*
+	 *	setzt Klasse "Aktive" zur Navigation wenn der Punkt angeklickt wird.
+	 * 	Die Aktive Seite bekommt einen Grünen Hintergrund.
+	 * */
 	function addActive(s){
 		if($("#mininavi a").hasClass(""+s)){
 			$("."+s+"a").addClass("active");
@@ -56,15 +73,21 @@ $(document).ready(function() {
 	addActive("international");
 	
 	
-	//ScrollTo Top
-	$("#scroll_top").click(function() {
+	/*
+	 *	Scrollt das Fenster nach oben.
+	 * 	Focus startet auch am Anfang.
+	 * */
+	$("#scroll_top button").click(function() {
     	$('html, body').animate({
 	        scrollTop: $("#header").offset().top
 	    }, 1000);
+	    $("#skiplinks").focus();
 	});
 
 
-	//Pfeiltastennutzung in Navigation(ErsterOrdnung) Links/Rechts 
+	/*
+	 *	Pfeiltastennutzung in Navigation(ErsterOrdnung) füt Links/Rechts Steuerung
+	 * */ 
 	$("#mainnav .firstlink").focus(function() {
 		$("#mainnav .firstlink").keyup(function(e) {
 	        if (e.keyCode == 37) 
@@ -78,7 +101,9 @@ $(document).ready(function() {
 	  	});      
 	});
 	
-	//Infobox
+	/*
+	 *	Infobox für die Steuerung der Navigation und Hinweis auf "Sidebar"
+	 * */
 	$("#info button").click(function() {
 		$("#infobox").show();
 		$("#infobox h1").focus();
@@ -88,7 +113,7 @@ $(document).ready(function() {
 		$("#info button").focus();
 	});
 	
-	//Markiert sidebar aktive Seite(Link)
+	//toDo: Markiert sidebar aktive Seite(Link)
 	/*
 	var currPage =$("#mininavi span").last().attr('class');
 	$(".sidebox li a ."+currPage).attr("id",currPage);
