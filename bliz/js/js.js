@@ -79,13 +79,13 @@ $(document).ready(function() {
 	});
 	
 	//Infobox
-	$("#info img").click(function() {
+	$("#info button").click(function() {
 		$("#infobox").show();
 		$("#infobox h1").focus();
 	});
 	$("#infoclose").click(function() {
 		$("#infobox").hide();
-		$("#info img").focus();
+		$("#info button").focus();
 	});
 	
 	//Markiert sidebar aktive Seite(Link)

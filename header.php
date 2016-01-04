@@ -16,9 +16,11 @@
 				</form>
 			</div>	
 			<div id="info">
-				<img src="bliz/img/con_info.png" alt="Infografik. Click return for information about the navigation" />
+				<button role="information" title="Click return for information about the navigation">
+					<img src="bliz/img/con_info.png" alt="Infoicon" />
+				</button>
 				<div id="infobox" class="hidden">
-					<h1>Info</h1>
+					<h1 tabindex="-1">Info</h1>
 					<br /><br />
 					<h2>Tip: 1</h2>
 					<p>
@@ -30,7 +32,7 @@
 						Nach dem Inhalt einer Seite befindet sich eine Sidebar. Diese beinhaltet nochmals eine Liste mit weiteren Seiten, die sich ebenso in dieser Kategorie befinden.  
 					</p>
 					<br /><br />
-					<span id="infoclose">schließen</span>
+					<button id="infoclose">schließen</button>
 				</div>				
 			</div>		
 		</div>	
