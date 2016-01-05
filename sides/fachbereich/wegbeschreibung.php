@@ -24,7 +24,7 @@
 					</br>
 					Hier sehen sie einen grafischen Lageplan unserer Hochschule in Giessen.</br>
 				</p>
-				<img src="" alt="Lageplan der THM" />
+				<p style="text-align: center;"><a name="Lageplan"></a><img src="images/fh-lageplan.jpg" border="0" alt="Lageplan der Technischen Hochschule Mittelhessen" title="Lageplan der Technischen Hochschule Mittelhessen in Gießen" width="600" height="474" /></p>
 				<p>Sie finden uns im Gebäude C, Stockwerk 3, in den Räumen 302 - 307, 309 und 320.</p>
 			</div>
 			
