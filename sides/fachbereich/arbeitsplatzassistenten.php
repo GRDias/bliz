@@ -54,4 +54,4 @@
 		</div>
 	</div>
 	<!-- ContentEnde -->
-<?php include "sides/fachbereich/profilsidebar.php"; ?>
+<?php include "sides/fachbereich/kontaktsidebar.php"; ?>
