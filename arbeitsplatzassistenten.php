@@ -5,7 +5,7 @@
 	
 	include "header.php";
 	
-	include "sides/fachbereich/technische_mitarbeiter.php";
+	include "sides/fachbereich/arbeitsplatzassistenten.php";
 	
 	include "footer.php";
 ?>

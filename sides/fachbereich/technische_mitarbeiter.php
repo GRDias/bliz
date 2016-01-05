@@ -1,10 +1,100 @@
 <?php include "sides/mininavi_3.php"; ?>
 	<!-- Content -->
-	<h1 style="text-align: center;">Technische Mitarbeiter</h1>
-	<p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Rolf Pape" src="images/photo_rolf-pape.jpg" alt="Rolf Pape" height="192" border="0" /> <strong>Administrativer Technischer Leiter</strong><br /><strong>Rolf Pape</strong><br /> Raum: C 3.20<br /> Telefon: 06 41 / 3 09 23 76<br />Fax: 06 41 / 3 09 29 50<br /> E-Mail: <a href="mailto:Rolf.Pape@bliz.thm.de">Rolf.Pape@bliz.thm.de</a></p>
-	<p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="David Smida" src="images/IMG_0286_1.jpg" alt="David Smida" height="192" border="0" /> <strong>Dipl. Inform. Med. (FH) <br /> David Smida</strong><br /><br /> Raum: C 3.05<br /> Telefon: 06 41 / 3 09 24 22<br /> E-Mail: <a href="mailto:David.Smida@bliz.thm.de">David.Smida@bliz.thm.de</a></p>
-	<p style="clear: left;"><img style="margin-bottom: 10px; margin-right: 10px; float: left;" title="Sahin Görenekli" src="images/sahin-goerenekli.jpg" alt="Sahin Görenekli, technischer Mitarbeiter des BliZ" height="192" border="0" /> <strong>Sahin Görenekli</strong> <br /><br /> Raum: C 3.09<br /> Telefon: 06 41 / 3 09 23 85<br /> E-Mail: <a href="mailto:Sahin.Goerenekli@bliz.thm.de">Sahin.Goerenekli@bliz.thm.de</a></p>
-	<p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Ali Gürler" src="images/ali-guerler.jpg" alt="Ali Gürler" width="256" height="192" border="0" /><strong>Ali Gürler</strong><br /><br />Raum: C 3.20<br />Telefon: 06 41 / 3 09 25 13<br />E-Mail: <a href="mailto:Ali.Guerler@bliz.thm.de">Ali.Guerler@bliz.thm.de</a></p>
-	<p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Imam Kahraman" src="images/IMG_0242_1.jpg" alt="Imam Kahraman" border="0" /><strong>Imam Kahraman<br /><br /></strong> Raum: C 20.01.09<br />Telefon: 06 41 / 3 09 24 69 <br />E-Mail: <a href="mailto:Imam.Kahraman@bliz.thm.de">Imam.Kahraman@bliz.thm.de</a></p>
+	<h1>Technische Mitarbeiter</h1>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/photo_rolf-pape.jpg" alt="Rolf Pape" />
+			</div>
+			<div>
+				<strong>Administrativer Technischer Leiter<br />
+					Rolf Pape
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.20<br />
+					Telefon: 06 41 / 3 09 23 76<br />
+					E-Mail: <a href="mailto:Rolf.Pape@bliz.thm.de">Rolf.Pape@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/IMG_0286_1.jpg" alt="David Smida" />
+			</div>
+			<div>
+				<strong>Dipl. Inform. Med. (FH)<br />
+					David Smida
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.05<br />
+					Telefon: 06 41 / 3 09 24 22<br />
+					E-Mail: <a href="mailto:David.Smida@bliz.thm.de">David.Smida@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/sahin-goerenekli.jpg" alt="Sahin Görenekli" />
+			</div>
+			<div>
+				<strong>
+					Sahin Görenekli
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.20<br />
+					Telefon: 06 41 / 3 09 25 13<br />
+					E-Mail: <a href="mailto:Sahin.Goerenekli@bliz.thm.de">Sahin.Goerenekli@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/ali-guerler.jpg" alt="Ali Gürler" />
+			</div>
+			<div>
+				<strong>
+					Ali Gürler
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.20<br />
+					Telefon: 06 41 / 3 09 25 13<br />
+					E-Mail: <a href="mailto:Ali.Guerler@bliz.thm.de">Ali.Guerler@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/IMG_0242_1.jpg" alt="Imam Kahraman" />
+			</div>
+			<div>
+				<strong>
+					Imam Kahraman
+				</strong>
+				<br />
+				<p>
+					Raum: C 20.01.09<br />
+					Telefon: 06 41 / 3 09 24 69<br />
+					E-Mail: <a href="mailto:Imam.Kahraman@bliz.thm.de">Imam.Kahraman@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
 	<!-- ContentEnde -->
 <?php include "sides/fachbereich/kontaktsidebar.php"; ?>
