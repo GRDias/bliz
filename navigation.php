@@ -25,7 +25,7 @@
 					<li><a href="checkliste_dinslaken.php?d1=Projekte&amp;d2=Checkliste%20Dinslaken&amp;d3=">Checkliste Bauen für alle barrierefrei der Stadt Dinslaken</a></li>
 					<li><a href="barrierefreie_dokumente_duisburg.php?d1=Projekte&amp;d2=Barrierefreie%20Dokumente%20Duisburg&amp;d3=">Barrierefrei aufbereitete Dokumente der Stadt Duisburg</a></li>
 					<li><a href="patientenaufklaerungsboegen.php?d1=Projekte&amp;d2=Patientenaufklärungsbögen&amp;d3=">Patientenaufklärungsbögen für Menschen mit Sehbeeinträchtigung zugänglich machen</a></li>
-					<li><a href="helb.php?d1=Projekte&amp;d2=HeLB&amp;d3=">HeLB</a></li>
+					<li><a href="http://www.thm.de/helb/">HeLB</a></li>
 					<li><a href="nedoshessen.php?d1=Projekte&amp;d2=Nedos%20Hessen&amp;d3=">NedosHessen</a></li>
 					<li><a href="elektronische_literaturversorgung.php?d1=Projekte&amp;d2=Elektronische%20Literaturversorgung&amp;d3=">Elektronische Literaturversorgung für Sehgeschädigte</a></li>
 					<li><a href="linux_fuer_blinde.php?d1=Projekte&amp;d2=Linux%20für%20Blinde&amp;d3=">Linux für Blinde</a></li>
