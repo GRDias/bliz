@@ -156,8 +156,14 @@ blockquote{
 	display:inline-block;
 	vertical-align: top;
 }
+.kontaktProfilInfo div:first-child{
+	width:40%
+}
+.kontaktProfilInfo div:last-child{
+	width:59%
+}
 .kontaktProfilInfo p{
-	font-size: 90%;
+	font-size: 100%;
 	text-align:left;
 }
 #kontaktListe ul{

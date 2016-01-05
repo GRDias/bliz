@@ -1,7 +1,7 @@
 <?php include "sides/mininavi_3.php"; ?>
 	<!-- Content -->
 	
-<h1 style="text-align: center;">Preisverleihung "Wissenschaft ohne Barrieren"</h1>
+<h1>Preisverleihung "Wissenschaft ohne Barrieren"</h1>
 <p>Unsere Arbeit wird belohnt. Das Equal Newsletter (Ausgabe 5 2008) berichtete über die Preisverleihung "Wissenschaft ohne Barrieren". Hier sehen Sie den Originaltext des Newsletters.</p>
 <p style="text-align: center;">----------------------------------------------------------------</p>
 <p>Mit einem repräsentativen Höhepunkt ging das EQUAL-Projekt "Vieles ist möglich – Tandem-Partner in der Wissenschaft" im November 2007 zu Ende. Im Rahmen einer bundesweiten Veranstaltung in der Akademie der Wissenschaften wurden von der Parlamentarischen Staatssekretärin im Bundesministerium für Gesundheit, Marion Caspers-Merk, in Berlin drei Institutionen geehrt, die sich in besonderer Weise um die Integration von Menschen mit Behinderungen in Wissenschaft und Forschung verdient gemacht haben.</p>
