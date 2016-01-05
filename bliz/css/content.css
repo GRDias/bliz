@@ -86,6 +86,11 @@ hr{
 	list-style-type: decimal;
 	margin-left: 10px;
 }
+.blizDots{
+	list-style-image: url("../img/li5.gif");
+	margin-left: 30px;
+}
+
 .centerImg{
 	display:block;
 	margin:0 auto;
@@ -123,6 +128,15 @@ hr{
 	width: 9px;
 	height: 14px;
 }
+
+#projPartner img{
+	width:200px;	
+}
+#projPartner li{
+	margin-bottom:20px;
+}
+
+
 	/*KontaktSeite*/
 #kontaktTable td{
 	padding:5px 2px;
