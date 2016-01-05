@@ -1,7 +1,7 @@
 <?php include "sides/mininavi_3.php"; ?>
 	<!-- Content -->
 	
-<h1 style="text-align: center;">Tipps zur Gestaltung behindertengerechter Webseiten</h1>
+<h1>Tipps zur Gestaltung behindertengerechter Webseiten</h1>
 <p>Die hier vorgestellten Tipps und Ratschläge sind nur QuickTipps und sind daher keinesfalls vollständig und ausführlich!</p>
 <p><br /><strong>Bilder und Animationen <br /></strong>Verwenden Sie das 'alt'-Attribut, um die Funktion des visuell Dargestellten zu beschreiben.</p>
 <p><span xml:lang="en" class="lang_en" title="Sprachenkürzel: EN" lang="en"><br /><strong>Image Maps</strong> </span> <br />Verwenden Sie die clientseitige MAP und Text für Hotspots.</p>
