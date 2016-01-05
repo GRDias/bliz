@@ -1,6 +1,6 @@
 <?php include "sides/mininavi_2.php"; ?>
 	<!-- Content -->
-	<div id="linuxBlinde">
+	<div id="projDiv">
 		<h1>Zugänglichkeit von Linux für Blinde</h1>
 		<h2>
 			Textorientierte Screenreader-Lösungen
@@ -17,24 +17,28 @@
 		<h2>Screenreader für die graphische Oberfläche</h2>
 		<p>
 			Linux ist schon seit vielen Jahren kein reines textbasiertes Betriebssystem mehr. Es existieren seit langer Zeit grafische Oberflächen, wie man sie u. a. von Windows-Betriebssystemen kennt.
-			Die zwei bekanntesten sind Gnome und KDE. Für beide Oberflächen sind Hunderte von Programmen vom Email- bis zum DVD-Brennprogramm verfügbar.
-			In den letzten Jahren wurde einiges getan, damit zukünftig auch Blinde die grafische Oberfläche nutzen können. Zu diesem Zwecke wurden u. a. das Gnome Accessibility Project und das KDE Accessibility Project gegründet.
-			Das bekannteste und vielversprechendste Programm ist dabei Gnopernicus, welches u. a. von Mitarbeitern der Firma Sun Microsystems und Baum Retec AG entwickelt wird.
-			Gnopernicus ist eine auf Gnome basierende, vollständige Screenreader-Lösung. Es unterstützt eine Vielzahl von Braillezeilen und verschiedene Sprachausgaben wie z. B.freetts . Neben allen Gnome-Programmen wird auch der Browser Mozilla und die Office-Suite Openoffice.org unterstützt. Eine Nutzung von KDE-Programmen über Gnopernicus befindet sich in der Entwicklung.
+			Die zwei bekanntesten sind <a href="https://www.gnome.org/">Gnome</a> und <a href="https://www.kde.org/">KDE</a>. Für beide Oberflächen sind Hunderte von Programmen vom Email- bis zum DVD-Brennprogramm verfügbar.
+			In den letzten Jahren wurde einiges getan, damit zukünftig auch Blinde die grafische Oberfläche nutzen können. Zu diesem Zwecke wurden u. a. das Gnome Accessibility Project und das <a href="https://accessibility.kde.org/">KDE Accessibility Project</a> gegründet.
+			Das bekannteste und vielversprechendste Programm ist dabei <a href="http://www.baum.ro/index.php?language=en&pagina=produse&subpag=gnopernicus">Gnopernicus</a>, welches u. a. von Mitarbeitern der Firma Sun Microsystems und Baum Retec AG entwickelt wird.
+			Gnopernicus ist eine auf Gnome basierende, vollständige Screenreader-Lösung. Es unterstützt eine Vielzahl von Braillezeilen und verschiedene Sprachausgaben wie z. B.<a href="http://freetts.sourceforge.net/docs/index.php">freetts</a> . Neben allen Gnome-Programmen wird auch der Browser <a href="https://www.mozilla.org/en-US/">Mozilla</a> und die Office-Suite <a href="http://www.openoffice.org/">Openoffice.org</a> unterstützt. Eine Nutzung von KDE-Programmen über Gnopernicus befindet sich in der Entwicklung.
 		</p>
 		
 		<br /><br />
 		<h2>Linux für Sehbehinderte</h2>
 		<p>
-			Derzeit gibt es zwei Projekte, die eine Bildschirmvergrößerung entwickeln. Zum einem ist das kmag, welches im kdeacessiblity-Paket enthalten ist. Zum anderen gibt es gnome-mag, welches Teil vom gnopernicus-Projekt ist. Beide Programme unterstützen derzeit einfache Vergrößerungsfunktionen wie Mausverfolgung, etc.
+			Derzeit gibt es zwei Projekte, die eine Bildschirmvergrößerung entwickeln. Zum einem ist das kmag, welches im <a href="https://accessibility.kde.org/aids/">kdeacessiblity-Paket</a> enthalten ist. Zum anderen gibt es gnome-mag, welches Teil vom gnopernicus-Projekt ist. Beide Programme unterstützen derzeit einfache Vergrößerungsfunktionen wie Mausverfolgung, etc.
 			Neben den Vergrößerungsprogrammen gibt es die Möglichkeit, sowohl unter Gnome und KDE sämtliche Elemente und Farben anzupassen, Schriften sowie den Mauscursor zu vergrößern. Auf der Textkonsole ist es zudem möglich, mit dem Programm SVGATextMode die Zeilenanzahl zu verringern, so dass die Schrift größer erscheint.
 		</p>
 		
+		<br /><br />
 		<h2>Was macht Linux für Blinde und Sehbehinderte attraktiv?</h2>
 		<p>
 			Selbständige Administration ist auf Grund der textbasierten Umgebung ohne Probleme möglich.
 			Großes Softwareangebot, textbasierte Programme werden im Gegensatz zu DOS noch weiterentwickelt. Die Software ist zum größten Teil frei. Der blinde User kann teilweise Einfluß auf die Entwicklung einer bestimmten Software nehmen, damit sie besser für ihn nutzbar ist. Linux ist ein Multiuser Betriebssystem und ermöglicht reines Multitasking. Der blinde User kann deshalb nicht nur eine Anwendung laufen lassen, wie das zu DOS-Zeiten der Fall war, sondern so viele parallel, wie er möchte. Linux kann auf die Bedürfnisse des Users mit relativ geringem Aufwand optimal zugeschnitten werden, z. B. durch selbst geschriebene Skripte usw.
 		</p>
+		
+		<br />
+		(überarbeitet von Lars Stetten)
 	</div>
 	<!-- ContentEnde -->
 <?php include "sides/projekte/sidebar.php"; ?>

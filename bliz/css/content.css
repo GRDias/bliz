@@ -109,13 +109,13 @@ hr{
 	font-style: italic;
 	font-size:90%;
 }
-#linuxBlinde a{
+#projDiv a{
 	border-bottom: 1px #afb6bd dotted;
 }
-#linuxBlinde h1{
+#projDiv h1{
 	margin-bottom:10px;
 }
-#linuxBlinde h2::before{
+#projDiv h2::before{
 	background-image:url("../img/h1_9.gif");
 	background-repeat:no-repeat;
 	content:" ";
