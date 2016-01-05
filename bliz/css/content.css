@@ -3,6 +3,7 @@
 	padding:20px;
 }
 .break{float:none;}
+
 /*		***	Content ***		*//*		***	Content ***		*//*		***	Content ***		*/
 #content{
 	display:table;
@@ -81,12 +82,22 @@ hr{
 	list-style-type: square;
 	margin-left: 40px;
 }
+.numberDots{
+	list-style-type: decimal;
+	margin-left: 10px;
+}
+.centerImg{
+	display:block;
+	margin:0 auto;
+}
 .center{
 	display:block;
 	width:100%;
 	text-align:center;	
 }
-
+.marginBlock{
+	margin:10px;	
+}
 .img_content{
 	width:100%;
 	margin:10px 0;
@@ -94,8 +105,7 @@ hr{
 .posterBliz img{
 	margin:20px 0;
 }
-.posterBliz p{
-	
+.posterBliz p{	
 	font-style: italic;
 	font-size:90%;
 }
@@ -119,6 +129,7 @@ hr{
 }
 .kontaktProfilInfo p{
 	font-size: 90%;
+	text-align:left;
 }
 #kontaktListe ul{
 	margin:10px;

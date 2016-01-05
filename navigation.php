@@ -31,7 +31,7 @@
 					<li><a href="linux_fuer_blinde.php?d1=Projekte&amp;d2=Linux%20für%20Blinde&amp;d3=">Linux für Blinde</a></li>
 					<li><a href="intranetportal.php?d1=Projekte&amp;d2=Intranetportal&amp;d3=">Intranetportal des BliZ</a></li>
 					<li><a href="geldboerse_fuer_blinde.php?d1=Projekte&amp;d2=Geldbörse%20für%20Blinde&amp;d3=">Geldbörse für Blinde</a></li>
-					<li><a href="jobline_reha.php?d1=Projekte&amp;d2=&amp;d3=">Jobline Reha</a></li>
+					<li><a href="jobline_reha.php?d1=Projekte&amp;d2=Jobline%20Reha&amp;d3=">Jobline Reha</a></li>
 				</ul>
 			</div>			
 		</li>

@@ -12,7 +12,7 @@
 			<li><a accesskey="7" href="linux_fuer_blinde.php?d1=Projekte&amp;d2=Linux%20für%20Blinde">Linux für Blinde</a></li>
 			<li><a accesskey="8" href="intranetportal.php?d1=Projekte&amp;d2=Intranetportal">Intranetportal des BliZ</a></li>
 			<li><a accesskey="9" href="geldboerse_fuer_blinde.php?d1=Projekte&amp;d2=Geldbörse%20für%20Blinde">Geldbörse für Blinde</a></li>
-			<li><a accesskey="0" href="jobline_reha.php?d1=Projekte&amp;d2=">Jobline Reha</a></li>
+			<li><a accesskey="0" href="jobline_reha.php?d1=Projekte&amp;d2=Jobline%20Reha">Jobline Reha</a></li>
 		</ul>
 	</div>
 </div>
