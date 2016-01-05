@@ -1,30 +1,137 @@
 <?php include "sides/mininavi_2.php"; ?>
 	<!-- Content -->
-	<h1>&nbsp;Auszubildende</h1>
-<h2>2. Ausbildungsjahr</h2><br />
-<h3><img style="margin-right: 10px; float: left;" src="images/nico_volkmer.jpg" alt="nico volkmer" />Nico Volkmer</h3>
-<p>Raum: C 3.02 <br />Telefon: 06 41 / 3 09 23 90 <br />E-Mail: <a href="mailto:Nico.Volkmer@bliz.thm.de">Nico.Volkmer@bliz.thm.de</a><br /><br /><br /><br /><br /><br /></p>
-<br />
-<h3><img style="margin-right: 10px; float: left;" title="Murat Bozkurt" src="images/Murat.Bozkurt.jpg" alt="Murat.Bozkurt" width="139" height="192" />Murat Bozkurt</h3>
-<p>Raum: C 3.02 <br />Telefon: 06 41 / 3 09 23 90 <br />E-Mail: <a href="mailto:Murat.Bozkurt@bliz.thm.de">Murat.Bozkurt@bliz.thm.de</a></p>
-<h1>&nbsp;</h1>
-<h1>&nbsp;</h1>
-<h1>&nbsp;</h1><br />
-<h2>3. Ausbildungsjahr</h2><br />
-<h3>Nicole Kuge</h3>
-<p>Raum: C 3.06 <br />Telefon: 06 41 / 3 09 23&nbsp;57 <br />E-Mail: <a href="mailto:Nicole.Kuge@bliz.thm.de">Nicole.Kuge@bliz.thm.de</a></p>
-<br /><p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Stefan Meinköhn" src="images/IMG_0279_1.jpg" alt="Stefan Meinköhn" height="192" border="0" /><strong>Stefan Meinköhn</strong></p>
-<p>Raum: C 3.08&nbsp;<br />Telefon: 06 41 / 3 09 23 85&nbsp;<br />E-Mail: <a href="javascript:// Diese E-Mail Adresse ist vor Spambots gesch&uuml;tzt."><span class="cloaked_email" id="ep_d8185135"><span data-ep-a4982="&#83;&#116;&#101;f&#97;" data-ep-b49a0="&#46;&#100;&#101;"><span data-ep-a4982="&#110;&#46;&#77;e&#105;" data-ep-b49a0="&#122;.t&#104;&#109;"><span data-ep-b49a0="n&#64;&#98;&#108;&#105;" data-ep-a4982="&#110;&#107;o&#101;&#104;"></span></span></span></span><span class="cloaked_email" id="ep_dd8aa4af" style="display:none;"><span data-ep-b49a0="&#46;de" data-ep-a4982="&#115;&#116;&#101;f&#97;"><span data-ep-a4982="n&#46;m&#101;&#105;" data-ep-b49a0="&#122;&#46;t&#104;m"><span data-ep-a4982="&#110;k&#111;e&#104;" data-ep-b49a0="&#110;&#64;&#98;&#108;i"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_dd8aa4af", 1);</script></p>
-<p>&nbsp;</p>
-<br /><p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Max Frey" src="images/IMG_0276_1.jpg" alt="Max Frey" height="192" border="0" /> <strong>Max Frey</strong></p>
-<p>Raum: C 3.06&nbsp;<br />Telefon: 06 41 / 3 09 23 57<br />E-Mail:<a href="javascript:// Diese E-Mail Adresse ist vor Spambots gesch&uuml;tzt."><span class="cloaked_email" id="ep_bb54f764"><span data-ep-a4982="&#77;a&#120;&#46;" data-ep-b49a0=""><span data-ep-b49a0="&#109;.&#100;&#101;" data-ep-a4982="&#70;re&#121;"><span data-ep-a4982="&#64;&#98;&#108;i" data-ep-b49a0="&#122;.&#116;h"></span></span></span></span><span class="cloaked_email" id="ep_c9651e22" style="display:none;"><span data-ep-b49a0="" data-ep-a4982="&#109;&#97;&#120;&#46;"><span data-ep-b49a0="m&#46;d&#101;" data-ep-a4982="&#102;&#114;e&#121;"><span data-ep-a4982="&#64;&#98;&#108;&#105;" data-ep-b49a0="z.&#116;&#104;"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_c9651e22", 1);</script></p>
-<br /><p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Daniel Meißner" src="images/IMG_0292_1.jpg" alt="Daniel Meißner" height="192" border="0" /> <strong>Daniel Meißner</strong></p>
-<p>Raum: C 3.07 <br />Telefon: 06 41 / 3 09 23 28 <br />E-Mail:<a href="javascript:// Diese E-Mail Adresse ist vor Spambots gesch&uuml;tzt."><span class="cloaked_email" id="ep_4880ad16"><span data-ep-b49a0="&#100;e" data-ep-a4982="Da&#110;&#105;&#101;"><span data-ep-a4982="l&#46;M&#101;&#105;" data-ep-b49a0=".&#116;h&#109;&#46;"><span data-ep-b49a0="&#64;&#98;&#108;&#105;&#122;" data-ep-a4982="&#115;sn&#101;r"></span></span></span></span><span class="cloaked_email" id="ep_6e6261a0" style="display:none;"><span data-ep-a4982="&#100;&#97;n&#105;&#101;" data-ep-b49a0="d&#101;"><span data-ep-b49a0=".&#116;hm&#46;" data-ep-a4982="&#108;&#46;&#109;&#101;i"><span data-ep-b49a0="&#64;&#98;&#108;&#105;&#122;" data-ep-a4982="&#115;&#115;&#110;e&#114;"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_6e6261a0", 1);</script></p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
-<br /><p style="clear: left;"><img style="margin-right: 10px; margin-bottom: 10px; float: left;" title="Benedikt Weber" src="images/IMG_0219_1.jpg" alt="Benedikt Weber" width="163" height="192" border="0" /> <strong>Benedikt Weber</strong></p>
-<p>Raum: C 3.07<br />Telefon: 06 41 / 3 09 23 28<br />E-Mail: <a href="javascript:// Diese E-Mail Adresse ist vor Spambots gesch&uuml;tzt."><span class="cloaked_email" id="ep_e6fd854f" style="display:none;"><span data-ep-a4982="&#66;e&#110;&#101;&#100;" data-ep-b49a0="&#101;"><span data-ep-a4982="&#105;k&#116;.W" data-ep-b49a0="&#116;&#104;m&#46;d"><span data-ep-a4982="&#101;b&#101;r&#64;" data-ep-b49a0="b&#108;i&#122;."></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_e6fd854f", 1);</script><a href="javascript:// Diese E-Mail Adresse ist vor Spambots gesch&uuml;tzt."><span class="cloaked_email" id="ep_6fb18364"><span data-ep-b49a0="&#101;" data-ep-a4982="Be&#110;ed"><span data-ep-a4982="ik&#116;&#46;&#87;" data-ep-b49a0="&#116;&#104;m&#46;&#100;"><span data-ep-a4982="&#101;&#98;&#101;&#114;&#64;" data-ep-b49a0="&#98;&#108;&#105;&#122;&#46;"></span></span></span></span><span class="cloaked_email" id="ep_dfd5b4cf" style="display:none;"><span data-ep-b49a0="e" data-ep-a4982="&#66;e&#110;&#101;&#100;"><span data-ep-b49a0="&#116;h&#109;.d" data-ep-a4982="&#105;kt&#46;&#87;"><span data-ep-a4982="&#101;&#98;&#101;&#114;&#64;" data-ep-b49a0="&#98;&#108;&#105;&#122;."></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_dfd5b4cf", 1);</script></p>
-<hr />
+	<h1>Auszubildende</h1>
+	<br />
 	
+	<h2>2. Ausbildungsjahr</h2>	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/nico_volkmer.jpg" alt="Nico Volkmer" />
+			</div>
+			<div>
+				<strong>
+					Nico Volkmer
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.02<br />
+					Telefon: 06 41 / 3 09 23 90 <br />
+					E-Mail: <a href="mailto:Nico.Volkmer@bliz.thm.de">Andreas.Deitmer@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/Murat.Bozkurt.jpg" alt="Murat Bozkurt" />
+			</div>
+			<div>
+				<strong>
+					Murat Bozkurt
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.02<br />
+					Telefon: 06 41 / 3 09 23 90 <br />
+					E-Mail: <a href="mailto:Murat.Bozkurt@bliz.thm.de">Murat.Bozkurt@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<br /><br />
+	
+	<h2>3. Ausbildungsjahr</h2>
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				
+			</div>
+			<div>
+				<strong>
+					Nicole Kuge
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.06<br />
+					Telefon: 06 41 / 3 09 23 57 <br />
+					E-Mail: <a href="mailto:Nicole.Kuge@bliz.thm.de">Nicole.Kuge@bliz.thm.de</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/IMG_0279_1.jpg" alt="Stefan Meinköhn" />
+			</div>
+			<div>
+				<strong>
+					Stefan Meinköhn
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.08<br />
+					Telefon: 06 41 / 3 09 23 85 <br />
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/IMG_0276_1.jpg" alt="Max Frey" />
+			</div>
+			<div>
+				<strong>
+					Max Frey
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.06<br />
+					Telefon: 06 41 / 3 09 23 57<br />
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/IMG_0292_1.jpg" alt="Daniel Meißner" />
+			</div>
+			<div>
+				<strong>
+					Daniel Meißner
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.07<br />
+					Telefon: 06 41 / 3 09 23 28<br />
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="kontaktProfil">
+		<div class="kontaktProfilInfo">
+			<div>
+				<img src="images/IMG_0219_1.jpg" alt="Benedikt Weber" />
+			</div>
+			<div>
+				<strong>
+					Benedikt Weber
+				</strong>
+				<br />
+				<p>
+					Raum: C 3.07<br />
+					Telefon: 06 41 / 3 09 23 28<br />
+				</p>
+			</div>
+		</div>
+	</div>
 	<!-- ContentEnde -->
 <?php include "sides/fachbereich/kontaktsidebar.php"; ?>
