@@ -1,9 +1,10 @@
 <?php include "sides/mininavi_2.php"; ?>
 			<!-- Content -->
 			<div>
-				<h2>
+				<h1>
 					!!! Achtung: Leider steht der Dienst nicht mehr zur Verfügung !!!<br /><br />
-					Stellenbörse für blinde und sehbehinderte Menschen</h2>
+					Stellenbörse für blinde und sehbehinderte Menschen
+				</h1>
 				<p>
 					Bei der derzeitigen schlechten Arbeitsmarktsituation haben gerade behinderte Menschen sehr große Probleme einen geeigneten Job zu finden. Ganz besonders problematisch ist die Situation für blinde und sehbehinderte Menschen. Um gerade diesem Personenkreis bei der Jobsuche zu unterstützen, wurde im Rahmen eines Projektes vom Zentrum für blinde und sehbehinderte Studierende an der Fachhochschule Gießen-Friedberg (BliZ) für Stiftung Blindenanstalt, Frankfurt am Main (kurz: SBA, http://www.stiftung-blindenanstalt.de) mit finanzieller Unterstützung des Bundesministeriums für Arbeit die Stellenbörse für blinde und sehbehinderte Menschen weiter entwickelt.
 					<br /><br />

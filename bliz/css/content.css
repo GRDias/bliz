@@ -109,7 +109,20 @@ hr{
 	font-style: italic;
 	font-size:90%;
 }
-
+#linuxBlinde a{
+	border-bottom: 1px #afb6bd dotted;
+}
+#linuxBlinde h1{
+	margin-bottom:10px;
+}
+#linuxBlinde h2::before{
+	background-image:url("../img/h1_9.gif");
+	background-repeat:no-repeat;
+	content:" ";
+	display:inline-block;
+	width: 9px;
+	height: 14px;
+}
 	/*KontaktSeite*/
 #kontaktTable td{
 	padding:5px 2px;

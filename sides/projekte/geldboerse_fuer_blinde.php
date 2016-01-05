@@ -1,10 +1,10 @@
 <?php include "sides/mininavi_2.php"; ?>
 	<!-- Content -->
 	<div>
-		<h2>
+		<h1>
 			Scheintasche und Kombibörse für Blinde und Sehbehinderte<br /><br />
 			(wird nicht mehr verkauft)
-		</h2>
+		</h1>
 		<p>
 			Mit Hilfe der Firma ‚Mano' hat Prof. Dr. Erdmuthe Meyer zu Bexten ein Projekt zur Entwicklung einer blinden- und sehbehindertengerechten Geldbörse gestartet. Diese Geldbörse ist in zwei Versionen erhältlich, als Scheintasche und als Kombibörse. Beide Produkte verfügen über verschiedene Vorteile, die für blinde und sehbehinderte Menschen von großem Nutzen sind. Auch für nicht sehbehinderte Menschen stellen diese beiden Geldbörsen ein attraktives Angebot dar, da sie ein modernes und ansprechendes Design und viel Platz für Karten usw. haben.
 			Beide Artikel sind von der Firma ‚Mano' in die reguläre Kollektion NAPPA aufgenommen worden - als Luxusausführung mit vielen Kartenfächern.
